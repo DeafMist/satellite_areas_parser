@@ -1,0 +1,6885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ciel-2-Spot-47</name>
+
+       
+
+    <Style id="colset_1">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_1n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/56.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_1h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/56.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_1n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_1h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_1</styleUrl>
+      <Point>
+        <coordinates>-99.967,32.316,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 56.4</name>
+      <styleUrl>#colset_1</styleUrl>
+      <Polygon id="beam0">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -100.012,32.365,0
+-99.967,32.316,0
+-99.749,31.639,0
+-99.905,30.9,0
+-100.418,30.152,0
+-100.974,29.673,0
+-101.477,29.388,0
+-101.926,29.202,0
+-102.735,29.111,0
+-103.429,29.302,0
+-103.444,29.309,0
+-103.919,29.992,0
+-103.929,30.215,0
+-103.895,30.712,0
+-103.537,31.455,0
+-103.515,31.481,0
+-102.68,32.231,0
+-102.391,32.407,0
+-101.461,32.714,0
+-100.644,32.693,0
+-100.012,32.365,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_2">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_2n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/54.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_2h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/54.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_2">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_2n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_2h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_2</styleUrl>
+      <Point>
+        <coordinates>-104.529,29.256,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 54.4</name>
+      <styleUrl>#colset_2</styleUrl>
+      <Polygon id="beam1">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -99.464,33.142,0
+-99.008,32.598,0
+-98.929,32.422,0
+-98.873,31.684,0
+-99.083,30.941,0
+-99.53,30.195,0
+-100.238,29.446,0
+-100.263,29.427,0
+-101.283,28.783,0
+-101.551,28.679,0
+-102.164,28.477,0
+-102.958,28.401,0
+-103.68,28.535,0
+-103.775,28.584,0
+-104.312,28.963,0
+-104.529,29.256,0
+-104.743,29.958,0
+-104.729,30.113,0
+-104.66,30.679,0
+-104.337,31.419,0
+-104.304,31.465,0
+-103.718,32.183,0
+-103.089,32.7,0
+-102.62,32.98,0
+-102.077,33.239,0
+-101.16,33.471,0
+-100.323,33.473,0
+-99.582,33.231,0
+-99.464,33.142,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_3">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_3n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/52.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_3h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/52.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_3">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_3n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_3h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_3</styleUrl>
+      <Point>
+        <coordinates>-105.07,28.952,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 52.4</name>
+      <styleUrl>#colset_3</styleUrl>
+      <Polygon id="beam2">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -99.498,33.898,0
+-99.313,33.847,0
+-98.659,33.391,0
+-98.506,33.194,0
+-98.219,32.455,0
+-98.238,31.718,0
+-98.472,30.973,0
+-98.896,30.227,0
+-99.363,29.67,0
+-99.534,29.48,0
+-100.468,28.728,0
+-100.524,28.691,0
+-101.473,28.209,0
+-102.328,27.958,0
+-102.585,27.936,0
+-103.113,27.89,0
+-103.246,27.908,0
+-103.84,27.996,0
+-104.503,28.306,0
+-104.771,28.543,0
+-105.07,28.952,0
+-105.203,29.229,0
+-105.314,29.934,0
+-105.208,30.656,0
+-104.906,31.395,0
+-104.383,32.152,0
+-103.917,32.617,0
+-103.539,32.936,0
+-102.833,33.396,0
+-102.001,33.766,0
+-101.846,33.828,0
+-100.929,34.033,0
+-100.08,34.043,0
+-99.498,33.898,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_4">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_4n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/48.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_4h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/48.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_4">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_4n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_4h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_4</styleUrl>
+      <Point>
+        <coordinates>-99.293,28.783,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 48.4</name>
+      <styleUrl>#colset_4</styleUrl>
+      <Polygon id="beam3">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -98.854,34.703,0
+-98.19,34.404,0
+-97.746,33.997,0
+-97.597,33.806,0
+-97.33,33.261,0
+-97.247,32.693,0
+-97.225,32.515,0
+-97.312,31.768,0
+-97.566,31.021,0
+-97.971,30.274,0
+-98.543,29.528,0
+-98.635,29.435,0
+-99.293,28.783,0
+-99.844,28.36,0
+-100.354,28.033,0
+-100.84,27.76,0
+-101.732,27.401,0
+-102.361,27.253,0
+-102.558,27.204,0
+-103.334,27.14,0
+-103.821,27.194,0
+-104.061,27.218,0
+-104.747,27.431,0
+-105.338,27.825,0
+-105.374,27.855,0
+-105.868,28.501,0
+-105.913,28.606,0
+-106.108,29.193,0
+-106.139,29.901,0
+-106.011,30.623,0
+-105.735,31.359,0
+-105.293,32.112,0
+-104.623,32.885,0
+-104.616,32.892,0
+-103.647,33.684,0
+-103.501,33.782,0
+-102.473,34.334,0
+-101.904,34.537,0
+-101.499,34.68,0
+-100.574,34.863,0
+-99.708,34.883,0
+-98.911,34.728,0
+-98.854,34.703,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_5">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_5n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/38.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_5h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/38.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_5">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_5n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_5h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_5</styleUrl>
+      <Point>
+        <coordinates>-105.419,33.602,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 38.4</name>
+      <styleUrl>#colset_5</styleUrl>
+      <Polygon id="beam4">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -97.1,35.587,0
+-96.793,35.414,0
+-96.285,34.855,0
+-96.223,34.768,0
+-95.9,34.106,0
+-95.837,33.763,0
+-95.758,33.352,0
+-95.789,32.597,0
+-95.966,31.843,0
+-96.227,31.133,0
+-96.238,31.093,0
+-96.304,30.963,0
+-96.6,30.346,0
+-97.047,29.604,0
+-97.629,28.864,0
+-98.241,28.324,0
+-98.458,28.121,0
+-99.361,27.464,0
+-99.496,27.377,0
+-100.345,26.885,0
+-100.96,26.626,0
+-101.243,26.497,0
+-102.093,26.208,0
+-102.894,26.046,0
+-103.658,25.976,0
+-104.393,25.988,0
+-105.098,26.092,0
+-105.756,26.372,0
+-105.849,26.436,0
+-106.393,26.729,0
+-106.739,27.086,0
+-106.957,27.39,0
+-107.18,27.758,0
+-107.335,28.446,0
+-107.351,28.736,0
+-107.411,29.144,0
+-107.355,29.854,0
+-107.195,30.576,0
+-106.944,31.31,0
+-106.58,32.058,0
+-106.331,32.415,0
+-106.077,32.821,0
+-105.419,33.602,0
+-105.067,33.898,0
+-104.427,34.41,0
+-103.971,34.708,0
+-102.944,35.239,0
+-102.89,35.261,0
+-101.924,35.679,0
+-100.951,35.953,0
+-100.015,36.102,0
+-99.115,36.143,0
+-98.261,36.069,0
+-97.478,35.841,0
+-97.1,35.587,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_6">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_6n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_6h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_6">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_6n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_6h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_6</styleUrl>
+      <Point>
+        <coordinates>-97.757,22.694,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_6</styleUrl>
+      <Polygon id="beam5">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -95.192,24.847,0
+-95.659,24.155,0
+-95.683,24.139,0
+-96.579,23.451,0
+-96.764,23.336,0
+-97.658,22.749,0
+-97.757,22.694,0
+-98.673,22.217,0
+-98.98,22.045,0
+-99.548,21.811,0
+-100.385,21.483,0
+-100.751,21.335,0
+-101.195,21.203,0
+-101.971,21.014,0
+-102.724,20.879,0
+-103.451,20.825,0
+-104.149,20.878,0
+-104.82,21.035,0
+-105.369,21.187,0
+-104.758,21.343,0
+-103.998,21.589,0
+-103.409,21.89,0
+-103.206,21.935,0
+-102.431,22.15,0
+-101.618,22.471,0
+-101.342,22.609,0
+-100.789,22.798,0
+-99.946,23.122,0
+-99.499,23.333,0
+-99.073,23.492,0
+-98.183,23.855,0
+-97.749,24.065,0
+-97.257,24.269,0
+-96.308,24.683,0
+-95.891,24.815,0
+-95.386,24.961,0
+-95.192,24.847,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_7">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_7n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_7h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_7n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_7h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_7</styleUrl>
+      <Point>
+        <coordinates>-91.001,37.033,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_7</styleUrl>
+      <Polygon id="beam6">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -93.718,39.064,0
+-93.687,39.05,0
+-92.926,38.681,0
+-92.26,38.334,0
+-92.184,38.279,0
+-91.518,37.764,0
+-91.348,37.576,0
+-91.001,37.033,0
+-90.892,36.796,0
+-90.729,36.007,0
+-90.721,35.95,0
+-90.693,35.22,0
+-90.796,34.434,0
+-90.829,34.253,0
+-90.945,33.655,0
+-91.206,32.879,0
+-91.535,32.108,0
+-91.934,31.343,0
+-92.411,30.582,0
+-92.971,29.826,0
+-93.623,29.074,0
+-93.705,28.992,0
+-94.409,28.324,0
+-95.149,27.697,0
+-95.317,27.577,0
+-96.314,26.898,0
+-96.451,26.829,0
+-97.331,26.378,0
+-98.19,26.064,0
+-98.258,26.037,0
+-98.364,26.056,0
+-98.523,26.733,0
+-98.765,26.881,0
+-99.341,26.696,0
+-99.656,26.596,0
+-100.565,26.198,0
+-101.359,25.929,0
+-101.434,25.868,0
+-102.309,25.457,0
+-103.111,25.252,0
+-103.505,25.172,0
+-103.235,24.784,0
+-102.845,24.529,0
+-103.389,24.188,0
+-104.022,23.825,0
+-104.215,23.783,0
+-104.961,23.664,0
+-105.686,23.604,0
+-106.391,23.61,0
+-107.077,23.726,0
+-107.728,23.903,0
+-108.362,24.204,0
+-108.506,24.341,0
+-108.964,24.665,0
+-109.248,24.981,0
+-109.537,25.277,0
+-109.803,25.633,0
+-110.082,26.04,0
+-110.241,26.293,0
+-110.544,26.962,0
+-110.575,27.079,0
+-110.758,27.641,0
+-110.787,28.331,0
+-110.678,29.033,0
+-110.46,29.745,0
+-110.191,30.468,0
+-109.942,31.198,0
+-109.714,31.936,0
+-109.452,32.685,0
+-109.093,33.447,0
+-108.57,34.228,0
+-107.892,35.025,0
+-107.85,35.065,0
+-106.952,35.849,0
+-106.751,36.001,0
+-105.708,36.701,0
+-105.685,36.716,0
+-104.65,37.254,0
+-103.919,37.6,0
+-103.604,37.745,0
+-102.582,38.114,0
+-101.491,38.558,0
+-100.445,38.878,0
+-99.382,39.166,0
+-98.316,39.415,0
+-97.277,39.573,0
+-96.295,39.603,0
+-95.375,39.511,0
+-94.508,39.321,0
+-93.718,39.064,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_8">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_8n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_8h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_8n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_8h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_8</styleUrl>
+      <Point>
+        <coordinates>-108.506,29.976,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_8</styleUrl>
+      <Polygon id="beam7">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -107.84,31.275,0
+-108.011,30.545,0
+-108.506,29.976,0
+-108.614,30.523,0
+-108.321,31.257,0
+-108.118,31.48,0
+-107.84,31.275,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_9">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_9n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_9h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_9n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_9h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_9</styleUrl>
+      <Point>
+        <coordinates>-94.063,33.455,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_9</styleUrl>
+      <Polygon id="beam8">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -94.736,35.736,0
+-94.404,34.973,0
+-94.276,34.948,0
+-94.073,34.219,0
+-94.086,33.612,0
+-94.063,33.455,0
+-94.192,32.692,0
+-94.654,31.919,0
+-95.333,31.171,0
+-95.115,31.892,0
+-94.872,32.651,0
+-94.8,33.41,0
+-95.096,33.444,0
+-95.035,34.159,0
+-95.275,34.827,0
+-95.307,34.916,0
+-95.652,35.677,0
+-94.753,35.761,0
+-94.736,35.736,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_10">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_10n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_10h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_10">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_10n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_10h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_10</styleUrl>
+      <Point>
+        <coordinates>-100.186,37.59,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_10</styleUrl>
+      <Polygon id="beam9">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -97.543,37.156,0
+-97.718,37.118,0
+-98.692,36.993,0
+-99.648,36.871,0
+-100.612,36.696,0
+-101.572,36.492,0
+-102.28,36.079,0
+-102.65,35.963,0
+-103.515,35.896,0
+-103.645,36.008,0
+-103.378,36.239,0
+-102.442,36.869,0
+-102.184,37.057,0
+-101.118,37.491,0
+-100.186,37.59,0
+-99.327,37.518,0
+-98.497,37.372,0
+-97.673,37.203,0
+-97.543,37.156,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_11">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_11n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_11h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_11">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_11n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_11h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_11</styleUrl>
+      <Point>
+        <coordinates>-96.378,36.425,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_11</styleUrl>
+      <Polygon id="beam10">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -95.976,36.451,0
+-96.265,36.397,0
+-96.378,36.425,0
+-96.187,36.539,0
+-95.976,36.451,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_12">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_12n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_12h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/28.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_12">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_12n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_12h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_12</styleUrl>
+      <Point>
+        <coordinates>-107.511,39.075,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 28.4</name>
+      <styleUrl>#colset_12</styleUrl>
+      <Polygon id="beam11">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -98.575,42.201,0
+-98.609,42.192,0
+-99.791,41.828,0
+-100.769,41.167,0
+-101.158,41.051,0
+-102.28,40.651,0
+-103.179,40.152,0
+-103.465,40.045,0
+-104.546,39.587,0
+-105.218,39.189,0
+-105.654,38.987,0
+-106.719,38.406,0
+-106.987,38.267,0
+-107.719,37.921,0
+-108.297,38.206,0
+-107.511,39.075,0
+-107.228,39.295,0
+-106.31,39.983,0
+-106.053,40.131,0
+-104.935,40.713,0
+-104.52,40.944,0
+-103.814,41.222,0
+-102.717,41.61,0
+-101.702,41.996,0
+-101.573,42.03,0
+-100.536,42.198,0
+-99.538,42.265,0
+-98.601,42.206,0
+-98.575,42.201,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_13">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_13n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_13h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_13">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_13n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_13h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_13</styleUrl>
+      <Point>
+        <coordinates>-109.945,-12.958,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_13</styleUrl>
+      <Polygon id="beam12">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -103.935,-12.463,0
+-104.118,-12.762,0
+-104.204,-13.056,0
+-104.727,-13.253,0
+-105.374,-13.417,0
+-106.035,-13.424,0
+-106.71,-13.271,0
+-107.385,-13.064,0
+-107.904,-12.99,0
+-108.072,-12.666,0
+-108.295,-12.984,0
+-108.681,-12.998,0
+-109.317,-13.02,0
+-109.945,-12.958,0
+-109.957,-12.955,0
+-110.621,-12.57,0
+-111.021,-12.349,0
+-110.663,-12.075,0
+-110.054,-11.86,0
+-109.416,-11.948,0
+-108.758,-12.199,0
+-108.101,-12.377,0
+-107.46,-12.349,0
+-106.831,-12.166,0
+-106.197,-11.983,0
+-105.545,-11.944,0
+-104.864,-12.108,0
+-104.162,-12.399,0
+-103.935,-12.463,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_14">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_14n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_14h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_14">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_14n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_14h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_14</styleUrl>
+      <Point>
+        <coordinates>-91.361,-10.923,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_14</styleUrl>
+      <Polygon id="beam13">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.361,-10.923,0
+-91.906,-11.035,0
+-92.642,-11.438,0
+-93.109,-10.884,0
+-92.754,-10.808,0
+-91.942,-10.836,0
+-91.361,-10.923,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_15">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_15n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_15h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_15">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_15n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_15h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_15</styleUrl>
+      <Point>
+        <coordinates>-126.115,-8.746,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_15</styleUrl>
+      <Polygon id="beam14">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -125.893,-7.598,0
+-125.608,-7.707,0
+-125.036,-7.945,0
+-124.568,-8.174,0
+-124.461,-8.253,0
+-123.883,-8.659,0
+-123.721,-8.751,0
+-123.301,-9.178,0
+-122.909,-9.331,0
+-123.293,-9.611,0
+-123.867,-9.713,0
+-124.443,-9.619,0
+-125.02,-9.398,0
+-125.157,-9.324,0
+-125.596,-9.023,0
+-126.115,-8.746,0
+-126.17,-8.695,0
+-126.743,-8.315,0
+-127.037,-8.17,0
+-127.315,-7.862,0
+-127.689,-7.596,0
+-127.316,-7.384,0
+-126.748,-7.436,0
+-126.178,-7.527,0
+-125.893,-7.598,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_16">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_16n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_16h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_16">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_16n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_16h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_16</styleUrl>
+      <Point>
+        <coordinates>-142.336,57.921,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_16</styleUrl>
+      <Polygon id="beam15">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -144.543,80.82,0
+-141.642,76.674,0
+-140.511,74.051,0
+-140.401,72.068,0
+-140.17,70.146,0
+-140.292,68.666,0
+-140.386,67.321,0
+-140.65,66.155,0
+-140.848,64.999,0
+-141.106,63.986,0
+-141.306,62.978,0
+-141.541,61.91,0
+-141.72,61.163,0
+-141.966,59.928,0
+-142.073,59.501,0
+-142.331,57.957,0
+-142.336,57.921,0
+-142.65,56.514,0
+-142.729,56.052,0
+-143.013,55.155,0
+-143.161,54.36,0
+-143.317,53.862,0
+-143.399,52.618,0
+-143.396,52.224,0
+-143.444,51.425,0
+-143.358,50.273,0
+-143.242,49.16,0
+-143.225,48.942,0
+-143.14,48.084,0
+-142.967,47.038,0
+-142.792,46.023,0
+-142.697,45.038,0
+-142.774,44.498,0
+-142.786,44.085,0
+-142.838,43.152,0
+-142.972,42.244,0
+-142.993,42.178,0
+-143.102,41.355,0
+-143.187,40.483,0
+-143.229,39.916,0
+-143.269,39.628,0
+-143.32,38.787,0
+-143.308,37.959,0
+-143.269,37.145,0
+-143.234,36.64,0
+-143.245,36.343,0
+-143.229,35.555,0
+-143.173,34.776,0
+-143.088,34.009,0
+-142.981,33.251,0
+-142.854,32.502,0
+-142.716,31.763,0
+-142.568,31.033,0
+-142.409,30.311,0
+-142.232,29.597,0
+-142.035,28.89,0
+-141.822,28.19,0
+-141.608,27.497,0
+-141.561,27.338,0
+-141.423,26.812,0
+-141.262,26.134,0
+-141.113,25.462,0
+-140.967,24.796,0
+-140.823,24.136,0
+-140.683,23.482,0
+-140.548,22.832,0
+-140.407,22.187,0
+-140.244,21.547,0
+-140.216,21.458,0
+-140.089,20.911,0
+-139.921,20.28,0
+-139.732,19.653,0
+-139.515,19.028,0
+-139.344,18.609,0
+-139.283,18.408,0
+-139.084,17.792,0
+-138.855,17.179,0
+-138.593,16.613,0
+-138.576,16.569,0
+-138.336,15.962,0
+-138.015,15.358,0
+-137.907,15.2,0
+-137.66,14.757,0
+-137.261,14.22,0
+-137.22,14.157,0
+-136.808,13.562,0
+-136.629,13.337,0
+-136.381,12.968,0
+-136.007,12.456,0
+-135.956,12.377,0
+-135.59,11.789,0
+-135.392,11.491,0
+-135.221,11.203,0
+-134.867,10.62,0
+-134.784,10.489,0
+-134.531,10.038,0
+-134.184,9.499,0
+-134.159,9.458,0
+-133.824,8.88,0
+-133.591,8.538,0
+-133.451,8.304,0
+-133.071,7.729,0
+-133.006,7.64,0
+-132.688,7.156,0
+-132.427,6.822,0
+-132.245,6.583,0
+-131.851,6.123,0
+-131.753,6.013,0
+-131.28,5.511,0
+-131.211,5.442,0
+-130.712,4.951,0
+-130.629,4.873,0
+-130.145,4.417,0
+-130.025,4.306,0
+-129.58,3.896,0
+-129.402,3.739,0
+-129.015,3.392,0
+-128.754,3.171,0
+-128.452,2.904,0
+-128.071,2.606,0
+-127.889,2.449,0
+-127.328,2.035,0
+-126.765,1.59,0
+-126.611,1.477,0
+-126.202,1.15,0
+-125.882,0.911,0
+-125.639,0.713,0
+-125.138,0.346,0
+-125.075,0.291,0
+-124.511,-0.138,0
+-124.39,-0.219,0
+-123.945,-0.565,0
+-123.574,-0.784,0
+-123.378,-0.941,0
+-122.813,-1.248,0
+-122.575,-1.35,0
+-122.243,-1.535,0
+-121.674,-1.749,0
+-121.103,-1.913,0
+-121.089,-1.917,0
+-120.53,-2.126,0
+-119.957,-2.286,0
+-119.382,-2.41,0
+-118.857,-2.487,0
+-118.806,-2.497,0
+-118.227,-2.566,0
+-117.647,-2.635,0
+-117.066,-2.745,0
+-116.481,-2.896,0
+-115.918,-3.061,0
+-115.893,-3.07,0
+-115.303,-3.229,0
+-114.711,-3.32,0
+-114.118,-3.383,0
+-113.522,-3.483,0
+-113.067,-3.64,0
+-112.919,-3.68,0
+-112.314,-3.869,0
+-111.705,-4.057,0
+-111.147,-4.219,0
+-111.093,-4.237,0
+-110.478,-4.381,0
+-109.861,-4.469,0
+-109.241,-4.529,0
+-108.618,-4.578,0
+-107.991,-4.617,0
+-107.359,-4.641,0
+-106.725,-4.643,0
+-106.087,-4.621,0
+-105.445,-4.578,0
+-104.799,-4.513,0
+-104.149,-4.43,0
+-103.494,-4.332,0
+-103.069,-4.265,0
+-102.833,-4.239,0
+-102.166,-4.166,0
+-101.493,-4.087,0
+-100.814,-3.987,0
+-100.13,-3.854,0
+-99.482,-3.708,0
+-99.44,-3.7,0
+-98.741,-3.592,0
+-98.033,-3.493,0
+-97.318,-3.384,0
+-96.596,-3.227,0
+-96.308,-3.144,0
+-95.866,-3.037,0
+-95.126,-2.857,0
+-94.376,-2.678,0
+-93.933,-2.571,0
+-93.614,-2.506,0
+-92.841,-2.335,0
+-92.058,-2.097,0
+-91.773,-1.993,0
+-91.261,-1.85,0
+-90.45,-1.639,0
+-89.633,-1.411,0
+-89.624,-1.409,0
+-88.781,-1.239,0
+-87.922,-0.988,0
+-87.557,-0.823,0
+-87.045,-0.651,0
+-86.148,-0.256,0
+-86.098,-0.23,0
+-85.227,0.066,0
+-84.59,0.366,0
+-84.281,0.489,0
+-83.372,0.967,0
+-83.304,1.002,0
+-82.29,1.574,0
+-81.241,2.102,0
+-81.094,2.178,0
+-80.153,2.579,0
+-79.662,2.791,0
+-79.022,3.045,0
+-78.13,3.409,0
+-77.839,3.531,0
+-76.616,4.033,0
+-76.596,4.042,0
+-75.282,4.576,0
+-75.069,4.663,0
+-73.887,5.128,0
+-73.439,5.299,0
+-72.391,5.717,0
+-71.799,5.942,0
+-70.765,6.358,0
+-70.121,6.592,0
+-68.995,6.984,0
+-68.081,7.256,0
+-67.065,7.53,0
+-65.381,7.941,0
+-64.903,8.052,0
+-62.369,8.619,0
+-62.182,8.65,0
+-59.173,9.275,0
+-58.261,9.39,0
+-54.435,10.144,0
+-54.119,10.2,0
+-47.998,10.676,0
+-144.543,80.82,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_17">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_17n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_17h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_17">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_17n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_17h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_17</styleUrl>
+      <Point>
+        <coordinates>-71.342,3.316,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_17</styleUrl>
+      <Polygon id="beam16">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -47.976,9.886,0
+-53.482,9.511,0
+-55.751,8.945,0
+-56.46,8.784,0
+-58.896,8.08,0
+-60.403,7.447,0
+-60.511,7.403,0
+-62.256,6.731,0
+-63.5,6.2,0
+-63.825,6.068,0
+-65.592,5.409,0
+-65.887,5.311,0
+-67.518,4.755,0
+-67.903,4.627,0
+-69.329,4.109,0
+-69.702,3.972,0
+-70.95,3.472,0
+-71.342,3.316,0
+-72.517,2.841,0
+-72.851,2.712,0
+-74.179,2.215,0
+-74.252,2.189,0
+-75.567,1.759,0
+-76.031,1.595,0
+-76.815,1.335,0
+-77.785,0.98,0
+-78.006,0.903,0
+-79.145,0.538,0
+-79.669,0.371,0
+-80.239,0.213,0
+-81.296,-0.05,0
+-81.932,-0.233,0
+-82.319,-0.33,0
+-83.311,-0.596,0
+-83.889,-0.83,0
+-84.273,-0.949,0
+-85.21,-1.28,0
+-85.538,-1.424,0
+-86.122,-1.609,0
+-87.01,-1.997,0
+-87.036,-2.014,0
+-87.876,-2.408,0
+-88.152,-2.602,0
+-88.715,-2.948,0
+-89.122,-3.19,0
+-89.536,-3.448,0
+-90.354,-3.714,0
+-90.539,-3.772,0
+-91.159,-3.954,0
+-91.95,-4.204,0
+-92.229,-4.348,0
+-92.718,-4.579,0
+-93.477,-4.914,0
+-93.512,-4.926,0
+-94.228,-5.201,0
+-94.98,-5.338,0
+-95.72,-5.482,0
+-95.752,-5.493,0
+-96.445,-5.719,0
+-97.159,-5.97,0
+-97.446,-6.062,0
+-97.862,-6.246,0
+-98.571,-6.356,0
+-99.281,-6.347,0
+-99.982,-6.347,0
+-100.67,-6.429,0
+-101.348,-6.563,0
+-101.615,-6.602,0
+-102.023,-6.653,0
+-102.696,-6.673,0
+-103.366,-6.662,0
+-104.029,-6.66,0
+-104.685,-6.673,0
+-105.338,-6.671,0
+-105.987,-6.632,0
+-106.633,-6.567,0
+-106.774,-6.552,0
+-107.276,-6.477,0
+-107.912,-6.403,0
+-108.543,-6.351,0
+-109.17,-6.303,0
+-109.793,-6.254,0
+-110.412,-6.212,0
+-111.026,-6.184,0
+-111.637,-6.169,0
+-112.244,-6.157,0
+-112.848,-6.136,0
+-113.45,-6.092,0
+-114.051,-6.018,0
+-114.64,-5.921,0
+-114.65,-5.919,0
+-115.245,-5.843,0
+-115.837,-5.773,0
+-116.427,-5.675,0
+-117.016,-5.526,0
+-117.575,-5.335,0
+-117.605,-5.324,0
+-118.191,-5.099,0
+-118.774,-4.895,0
+-119.156,-4.76,0
+-119.355,-4.672,0
+-119.935,-4.399,0
+-120.339,-4.187,0
+-120.513,-4.073,0
+-121.089,-3.699,0
+-121.222,-3.618,0
+-121.664,-3.268,0
+-122.034,-3.049,0
+-122.236,-2.872,0
+-122.807,-2.563,0
+-123.018,-2.481,0
+-123.375,-2.286,0
+-123.942,-2.085,0
+-124.448,-1.915,0
+-124.508,-1.888,0
+-125.074,-1.597,0
+-125.548,-1.348,0
+-125.638,-1.292,0
+-126.203,-0.929,0
+-126.415,-0.783,0
+-126.765,-0.521,0
+-127.185,-0.218,0
+-127.327,-0.101,0
+-127.892,0.302,0
+-127.956,0.345,0
+-128.454,0.705,0
+-128.782,0.909,0
+-129.014,1.066,0
+-129.577,1.423,0
+-129.648,1.474,0
+-130.14,1.869,0
+-130.328,2.04,0
+-130.703,2.408,0
+-130.885,2.607,0
+-131.269,3.036,0
+-131.383,3.172,0
+-131.836,3.703,0
+-131.867,3.74,0
+-132.328,4.307,0
+-132.406,4.399,0
+-132.803,4.875,0
+-132.979,5.068,0
+-133.322,5.445,0
+-133.553,5.685,0
+-133.867,6.016,0
+-134.129,6.288,0
+-134.402,6.587,0
+-134.71,6.926,0
+-134.908,7.161,0
+-135.297,7.62,0
+-135.386,7.735,0
+-135.831,8.311,0
+-135.889,8.383,0
+-136.241,8.889,0
+-136.489,9.208,0
+-136.663,9.468,0
+-137.087,10.049,0
+-137.096,10.06,0
+-137.441,10.632,0
+-137.716,11.064,0
+-137.802,11.217,0
+-138.1,11.804,0
+-138.357,12.277,0
+-138.413,12.393,0
+-138.679,12.984,0
+-138.993,13.578,0
+-139.018,13.623,0
+-139.269,14.174,0
+-139.604,14.774,0
+-139.694,14.909,0
+-139.932,15.376,0
+-140.281,15.982,0
+-140.386,16.153,0
+-140.591,16.591,0
+-140.865,17.202,0
+-141.13,17.782,0
+-141.144,17.817,0
+-141.338,18.435,0
+-141.517,19.056,0
+-141.694,19.68,0
+-141.888,20.309,0
+-142.047,20.756,0
+-142.1,20.943,0
+-142.293,21.581,0
+-142.511,22.223,0
+-142.753,22.871,0
+-143.022,23.525,0
+-143.03,23.544,0
+-143.254,24.183,0
+-143.48,24.846,0
+-143.692,25.516,0
+-143.881,26.19,0
+-144.042,26.87,0
+-144.177,27.557,0
+-144.296,28.249,0
+-144.407,28.948,0
+-144.51,29.654,0
+-144.601,30.368,0
+-144.678,31.09,0
+-144.755,31.82,0
+-144.847,32.56,0
+-144.96,33.309,0
+-145.091,34.07,0
+-145.236,34.841,0
+-145.384,35.624,0
+-145.528,36.418,0
+-145.599,36.846,0
+-145.643,37.224,0
+-145.742,38.043,0
+-145.855,38.876,0
+-145.971,39.725,0
+-146.09,40.59,0
+-146.214,41.472,0
+-146.268,41.875,0
+-146.306,42.371,0
+-146.378,43.29,0
+-146.446,44.229,0
+-146.484,45.033,0
+-146.48,45.19,0
+-146.483,46.175,0
+-146.562,47.191,0
+-146.613,47.787,0
+-146.618,48.235,0
+-146.654,49.312,0
+-146.714,50.36,0
+-146.706,50.426,0
+-146.614,51.573,0
+-146.648,52.495,0
+-146.622,52.772,0
+-146.67,54.025,0
+-146.862,55.156,0
+-146.881,55.347,0
+-147.133,56.742,0
+-147.59,58.233,0
+-147.828,58.965,0
+-148.095,59.829,0
+-148.686,61.558,0
+-149.131,62.793,0
+-149.364,63.456,0
+-150.257,65.593,0
+-150.582,66.28,0
+-151.672,68.102,0
+-153.93,70.772,0
+-154.51,71.322,0
+-169.212,78.137,0
+-169.325,78.369,0
+-47.976,9.886,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_18">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_18n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_18h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_18">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_18n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_18h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_18</styleUrl>
+      <Point>
+        <coordinates>-133.533,-3.39,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_18</styleUrl>
+      <Polygon id="beam17">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -132.596,-3.612,0
+-132.403,-3.726,0
+-131.838,-4.106,0
+-131.74,-4.178,0
+-131.276,-4.62,0
+-131.119,-4.745,0
+-130.713,-5.234,0
+-130.62,-5.313,0
+-130.714,-5.506,0
+-131.28,-5.501,0
+-131.846,-5.36,0
+-131.941,-5.314,0
+-132.411,-5.029,0
+-132.804,-4.747,0
+-132.975,-4.573,0
+-133.331,-4.18,0
+-133.536,-3.826,0
+-133.676,-3.613,0
+-133.533,-3.39,0
+-132.967,-3.448,0
+-132.596,-3.612,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_19">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_19n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_19h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_19">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_19n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_19h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_19</styleUrl>
+      <Point>
+        <coordinates>-76.786,14.584,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_19</styleUrl>
+      <Polygon id="beam18">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -48.639,23.37,0
+-51.688,23.204,0
+-57.854,22.131,0
+-58.021,22.093,0
+-61.315,21.24,0
+-63.104,20.725,0
+-64.194,20.399,0
+-66.462,19.67,0
+-66.707,19.592,0
+-68.926,18.814,0
+-69.125,18.748,0
+-70.969,18.056,0
+-71.416,17.86,0
+-72.62,17.326,0
+-73.601,16.738,0
+-73.798,16.625,0
+-74.878,15.935,0
+-75.693,15.337,0
+-75.806,15.257,0
+-76.786,14.584,0
+-77.491,14.112,0
+-77.788,13.915,0
+-78.826,13.251,0
+-79.045,13.124,0
+-79.913,12.591,0
+-80.45,12.266,0
+-80.972,11.937,0
+-81.761,11.448,0
+-82.014,11.29,0
+-82.98,10.719,0
+-83.104,10.646,0
+-84.117,10.102,0
+-84.298,10.005,0
+-85.192,9.564,0
+-85.593,9.368,0
+-86.222,9.068,0
+-86.946,8.735,0
+-87.214,8.6,0
+-88.166,8.202,0
+-88.409,8.105,0
+-89.088,7.829,0
+-89.981,7.509,0
+-90.065,7.478,0
+-90.856,7.167,0
+-91.604,6.859,0
+-91.716,6.801,0
+-92.553,6.464,0
+-93.098,6.246,0
+-93.372,6.149,0
+-94.169,5.911,0
+-94.955,5.652,0
+-95.007,5.634,0
+-95.726,5.414,0
+-96.488,5.134,0
+-96.762,5.029,0
+-97.236,4.882,0
+-97.97,4.703,0
+-98.692,4.563,0
+-99.394,4.422,0
+-99.406,4.42,0
+-100.11,4.284,0
+-100.808,4.123,0
+-101.498,3.982,0
+-102.177,3.907,0
+-102.846,3.935,0
+-103.499,4.207,0
+-103.662,4.392,0
+-103.488,4.469,0
+-102.799,4.956,0
+-102.775,4.978,0
+-102.115,5.188,0
+-101.424,5.408,0
+-101.027,5.574,0
+-100.723,5.658,0
+-100.011,5.949,0
+-99.634,6.171,0
+-99.283,6.318,0
+-98.548,6.629,0
+-98.205,6.773,0
+-97.806,6.91,0
+-97.054,7.175,0
+-96.582,7.383,0
+-96.283,7.506,0
+-95.498,7.846,0
+-95.191,7.994,0
+-94.696,8.214,0
+-93.878,8.585,0
+-93.828,8.61,0
+-93.036,9.003,0
+-92.663,9.228,0
+-92.157,9.542,0
+-91.723,9.846,0
+-91.237,10.183,0
+-90.833,10.467,0
+-90.286,10.834,0
+-89.889,11.093,0
+-89.31,11.452,0
+-88.865,11.726,0
+-88.299,12.082,0
+-87.835,12.365,0
+-87.236,12.773,0
+-86.833,13.007,0
+-86.13,13.464,0
+-85.74,13.658,0
+-84.983,14.135,0
+-84.612,14.316,0
+-84.255,14.953,0
+-84.702,15.017,0
+-85.672,15.002,0
+-86.616,14.999,0
+-87.438,15.329,0
+-87.468,15.471,0
+-87.345,15.633,0
+-87.04,16.112,0
+-86.495,16.762,0
+-85.938,17.417,0
+-85.705,17.678,0
+-85.335,18.079,0
+-84.716,18.746,0
+-84.111,19.418,0
+-83.881,19.695,0
+-83.533,20.095,0
+-83,20.774,0
+-82.464,21.46,0
+-81.896,22.153,0
+-81.302,22.853,0
+-80.782,23.556,0
+-80.595,24.247,0
+-80.774,24.922,0
+-80.882,25.153,0
+-80.903,25.604,0
+-80.854,26.302,0
+-80.643,27.016,0
+-80.376,27.546,0
+-80.27,27.746,0
+-79.748,28.494,0
+-79.112,29.259,0
+-78.375,30.039,0
+-78.159,30.248,0
+-77.514,30.838,0
+-76.506,31.659,0
+-75.086,32.524,0
+-74.099,32.816,0
+-71.904,33.547,0
+-71.392,33.672,0
+-68.506,34.615,0
+-67.518,34.973,0
+-65.098,35.711,0
+-62.862,36.726,0
+-61.666,37.663,0
+-61.66,37.712,0
+-60.254,38.637,0
+-59.243,39.574,0
+-59.266,39.586,0
+-58.717,40.507,0
+-57.757,40.999,0
+-61.78,40.2,0
+-65.199,39.006,0
+-67.518,37.945,0
+-69.38,36.949,0
+-70.959,35.996,0
+-72.365,35.076,0
+-73.704,34.177,0
+-74.821,33.494,0
+-76.247,33.198,0
+-76.672,33.139,0
+-76.677,33.164,0
+-77.365,33.8,0
+-77.361,33.881,0
+-77.435,34.655,0
+-77.526,34.94,0
+-77.47,35.442,0
+-77.393,36.247,0
+-77.386,36.318,0
+-77.216,37.073,0
+-76.869,37.925,0
+-76.839,37.982,0
+-76.417,38.8,0
+-75.664,39.718,0
+-74.664,40.675,0
+-74.396,40.896,0
+-73.423,41.676,0
+-71.713,42.745,0
+-69.583,43.882,0
+-67.004,45.098,0
+-64.126,46.38,0
+-63.178,47.114,0
+-62.418,47.563,0
+-61.699,48.456,0
+-61.694,48.662,0
+-60.788,49.584,0
+-60.567,49.837,0
+-53.426,51.906,0
+-48.639,23.37,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_20">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_20n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_20h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_20">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_20n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_20h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_20</styleUrl>
+      <Point>
+        <coordinates>-134.453,53.217,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_20</styleUrl>
+      <Polygon id="beam19">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -116.185,80.931,0
+-121.155,77.966,0
+-125.501,73.786,0
+-125.59,73.708,0
+-127.943,71.328,0
+-128.939,69.859,0
+-129.774,68.154,0
+-130.266,67.054,0
+-131.116,64.783,0
+-131.142,64.734,0
+-132.074,62.714,0
+-132.237,62.22,0
+-132.816,60.901,0
+-133.164,59.602,0
+-133.245,59.238,0
+-133.373,57.692,0
+-133.451,56.244,0
+-133.716,55.377,0
+-133.785,54.881,0
+-134.148,53.586,0
+-134.453,53.217,0
+-134.803,52.357,0
+-135.223,51.728,0
+-135.44,51.179,0
+-135.866,50.043,0
+-135.897,49.969,0
+-136.183,48.946,0
+-136.474,47.916,0
+-136.485,47.885,0
+-136.868,46.858,0
+-137.084,46.291,0
+-137.271,45.861,0
+-137.567,44.889,0
+-137.645,44.581,0
+-137.821,43.941,0
+-137.966,43.013,0
+-138.072,42.263,0
+-138.102,42.106,0
+-138.181,41.217,0
+-138.19,40.345,0
+-138.181,39.489,0
+-138.214,38.65,0
+-138.236,38.444,0
+-138.229,37.825,0
+-138.188,37.014,0
+-138.117,36.215,0
+-138.026,35.427,0
+-137.953,34.652,0
+-138.098,33.892,0
+-138.297,33.74,0
+-138.445,33.146,0
+-138.595,32.405,0
+-138.632,31.672,0
+-138.584,30.947,0
+-138.507,30.229,0
+-138.428,29.519,0
+-138.351,28.817,0
+-138.273,28.123,0
+-138.191,27.435,0
+-138.099,26.754,0
+-137.989,26.078,0
+-137.843,25.409,0
+-137.644,24.744,0
+-137.369,24.085,0
+-137.26,23.878,0
+-137.109,23.431,0
+-136.869,22.782,0
+-136.599,22.138,0
+-136.484,21.895,0
+-136.319,21.499,0
+-136.057,20.864,0
+-135.777,20.234,0
+-135.761,20.198,0
+-135.462,19.608,0
+-135.24,18.986,0
+-135.065,18.496,0
+-134.994,18.368,0
+-134.771,17.754,0
+-134.588,17.143,0
+-134.384,16.564,0
+-134.373,16.536,0
+-134.177,15.932,0
+-133.977,15.331,0
+-133.733,14.788,0
+-133.71,14.732,0
+-133.454,14.136,0
+-133.114,13.601,0
+-133.081,13.542,0
+-132.701,12.951,0
+-132.513,12.729,0
+-132.248,12.362,0
+-131.919,11.966,0
+-131.784,11.776,0
+-131.351,11.192,0
+-131.331,11.164,0
+-130.984,10.609,0
+-130.746,10.269,0
+-130.595,10.029,0
+-130.199,9.451,0
+-130.167,9.404,0
+-129.803,8.874,0
+-129.592,8.593,0
+-129.345,8.298,0
+-129.021,7.932,0
+-128.815,7.725,0
+-128.452,7.37,0
+-128.228,7.153,0
+-127.885,6.831,0
+-127.629,6.582,0
+-127.319,6.293,0
+-127.018,6.012,0
+-126.754,5.782,0
+-126.346,5.443,0
+-126.19,5.318,0
+-125.626,4.904,0
+-125.59,4.876,0
+-125.063,4.487,0
+-124.809,4.309,0
+-124.498,4.093,0
+-123.934,3.758,0
+-123.905,3.742,0
+-123.369,3.439,0
+-122.802,3.206,0
+-122.731,3.176,0
+-122.235,2.979,0
+-121.667,2.777,0
+-121.267,2.612,0
+-121.099,2.54,0
+-120.529,2.295,0
+-119.955,2.047,0
+-119.386,1.828,0
+-118.812,1.653,0
+-118.364,1.481,0
+-118.236,1.433,0
+-117.658,1.256,0
+-117.122,0.915,0
+-117.08,0.892,0
+-116.499,0.573,0
+-116.207,0.348,0
+-115.915,0.176,0
+-115.329,-0.1,0
+-115.031,-0.22,0
+-114.74,-0.343,0
+-114.148,-0.492,0
+-113.555,-0.561,0
+-112.959,-0.583,0
+-112.359,-0.591,0
+-111.757,-0.602,0
+-111.151,-0.625,0
+-110.543,-0.656,0
+-109.931,-0.684,0
+-109.315,-0.688,0
+-108.696,-0.66,0
+-108.073,-0.609,0
+-107.446,-0.565,0
+-106.815,-0.541,0
+-106.179,-0.52,0
+-105.538,-0.461,0
+-104.893,-0.339,0
+-104.376,-0.223,0
+-104.243,-0.187,0
+-103.587,-0.062,0
+-102.925,0.033,0
+-102.258,0.169,0
+-101.689,0.354,0
+-101.583,0.488,0
+-101.02,0.933,0
+-101.045,1.512,0
+-100.889,1.596,0
+-100.192,2.068,0
+-100.171,2.094,0
+-99.488,2.377,0
+-99.019,2.679,0
+-98.773,2.765,0
+-98.053,3.022,0
+-97.414,3.27,0
+-97.321,3.295,0
+-96.582,3.522,0
+-95.826,3.859,0
+-95.815,3.865,0
+-95.059,4.173,0
+-94.386,4.463,0
+-94.278,4.503,0
+-93.487,4.782,0
+-92.807,5.067,0
+-92.676,5.133,0
+-91.844,5.538,0
+-91.588,5.672,0
+-90.99,5.97,0
+-90.218,6.283,0
+-90.125,6.325,0
+-89.245,6.637,0
+-88.545,6.903,0
+-88.339,6.991,0
+-87.41,7.348,0
+-86.986,7.528,0
+-86.45,7.741,0
+-85.462,8.13,0
+-85.385,8.159,0
+-84.444,8.518,0
+-83.76,8.798,0
+-83.381,8.959,0
+-82.327,9.438,0
+-82.264,9.468,0
+-81.08,10.06,0
+-81.038,10.082,0
+-79.885,10.728,0
+-79.804,10.777,0
+-78.768,11.378,0
+-78.422,11.595,0
+-77.677,12.033,0
+-76.905,12.529,0
+-76.642,12.692,0
+-75.619,13.356,0
+-75.198,13.62,0
+-74.543,14.027,0
+-73.419,14.707,0
+-73.289,14.774,0
+-72.109,15.4,0
+-71.198,15.858,0
+-70.693,16.105,0
+-69.279,16.817,0
+-68.691,17.125,0
+-67.832,17.54,0
+-66.346,18.272,0
+-65.487,18.634,0
+-64.43,19.035,0
+-61.924,19.839,0
+-61.703,19.893,0
+-58.132,20.727,0
+-56.584,20.991,0
+-48.527,21.779,0
+-116.185,80.931,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_21">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_21n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_21h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_21">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_21n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_21h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_21</styleUrl>
+      <Point>
+        <coordinates>-138.506,2.047,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_21</styleUrl>
+      <Polygon id="beam20">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -138.506,2.047,0
+-138.087,1.748,0
+-137.857,1.48,0
+-137.509,1.104,0
+-137.384,0.913,0
+-137.001,0.347,0
+-136.935,0.24,0
+-136.729,-0.219,0
+-136.606,-0.785,0
+-136.936,-0.819,0
+-136.973,-0.785,0
+-137.508,-0.334,0
+-137.617,-0.219,0
+-138.082,0.25,0
+-138.161,0.347,0
+-138.576,0.914,0
+-138.66,1.045,0
+-138.874,1.481,0
+-138.986,2.048,0
+-138.667,2.174,0
+-138.506,2.047,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_22">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_22n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_22h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_22n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_22h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_22</styleUrl>
+      <Point>
+        <coordinates>-134.257,33.084,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_22</styleUrl>
+      <Polygon id="beam21">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -132.85,48.893,0
+-132.609,47.825,0
+-132.508,46.79,0
+-132.497,45.785,0
+-132.605,44.809,0
+-132.61,44.79,0
+-132.777,43.859,0
+-132.86,42.93,0
+-132.91,42.022,0
+-132.972,41.133,0
+-133.074,40.354,0
+-133.087,40.264,0
+-133.254,39.411,0
+-133.443,38.575,0
+-133.64,37.852,0
+-133.667,37.754,0
+-133.846,36.946,0
+-133.968,36.151,0
+-134.06,35.368,0
+-134.129,34.794,0
+-134.151,34.596,0
+-134.213,33.835,0
+-134.257,33.084,0
+-134.286,32.343,0
+-134.297,31.61,0
+-134.279,30.887,0
+-134.223,30.171,0
+-134.155,29.463,0
+-134.132,28.764,0
+-134.168,28.072,0
+-134.239,27.387,0
+-134.275,27.095,0
+-134.297,26.709,0
+-134.338,26.037,0
+-134.309,25.37,0
+-134.145,24.833,0
+-134.12,24.707,0
+-133.899,24.05,0
+-133.578,23.398,0
+-133.434,23.189,0
+-133.227,22.751,0
+-132.884,22.109,0
+-132.762,21.908,0
+-132.56,21.471,0
+-132.269,20.839,0
+-132.103,20.474,0
+-132.004,20.211,0
+-131.805,19.587,0
+-131.625,18.967,0
+-131.445,18.351,0
+-131.299,17.738,0
+-131.15,17.129,0
+-130.986,16.523,0
+-130.812,16.018,0
+-130.774,15.92,0
+-130.565,15.32,0
+-130.285,14.723,0
+-130.208,14.598,0
+-129.968,14.128,0
+-129.616,13.616,0
+-129.565,13.535,0
+-129.216,12.946,0
+-129.032,12.771,0
+-128.706,12.358,0
+-128.453,12.149,0
+-128.068,11.773,0
+-127.876,11.625,0
+-127.387,11.19,0
+-127.302,11.125,0
+-126.73,10.635,0
+-126.704,10.609,0
+-126.159,10.165,0
+-126.01,10.031,0
+-125.59,9.699,0
+-125.288,9.454,0
+-125.021,9.246,0
+-124.537,8.88,0
+-124.454,8.817,0
+-123.886,8.42,0
+-123.725,8.307,0
+-123.32,8.033,0
+-122.865,7.734,0
+-122.752,7.656,0
+-122.185,7.278,0
+-122.026,7.164,0
+-121.618,6.851,0
+-121.308,6.594,0
+-121.053,6.36,0
+-120.702,6.025,0
+-120.488,5.795,0
+-120.17,5.455,0
+-119.923,5.162,0
+-119.667,4.887,0
+-119.357,4.529,0
+-119.088,4.319,0
+-118.787,4.037,0
+-118.212,3.826,0
+-117.835,3.754,0
+-117.634,3.694,0
+-117.054,3.598,0
+-116.471,3.544,0
+-115.887,3.495,0
+-115.3,3.436,0
+-114.711,3.347,0
+-114.122,3.2,0
+-114.104,3.195,0
+-113.53,3.034,0
+-112.934,2.895,0
+-112.336,2.794,0
+-111.735,2.727,0
+-111.129,2.676,0
+-110.66,2.634,0
+-110.521,2.618,0
+-109.91,2.539,0
+-109.295,2.457,0
+-108.676,2.372,0
+-108.054,2.29,0
+-107.428,2.209,0
+-106.797,2.117,0
+-106.548,2.073,0
+-106.165,1.87,0
+-105.642,1.501,0
+-106.173,1.277,0
+-106.811,1.055,0
+-107.266,0.925,0
+-107.444,0.905,0
+-108.072,0.837,0
+-108.696,0.776,0
+-109.315,0.738,0
+-109.931,0.736,0
+-110.542,0.768,0
+-111.15,0.817,0
+-111.755,0.87,0
+-112.358,0.917,0
+-112.386,0.919,0
+-112.956,0.976,0
+-113.552,1.019,0
+-114.146,1.063,0
+-114.736,1.125,0
+-115.325,1.213,0
+-115.911,1.332,0
+-116.331,1.484,0
+-116.494,1.547,0
+-117.075,1.768,0
+-117.474,2.05,0
+-117.652,2.185,0
+-118.214,2.616,0
+-118.227,2.63,0
+-118.8,3.068,0
+-118.995,3.183,0
+-119.372,3.428,0
+-119.944,3.63,0
+-120.289,3.748,0
+-120.516,3.836,0
+-121.086,4.048,0
+-121.655,4.234,0
+-121.861,4.313,0
+-122.223,4.468,0
+-122.79,4.715,0
+-123.121,4.878,0
+-123.356,5.011,0
+-123.922,5.327,0
+-124.118,5.446,0
+-124.487,5.684,0
+-125.005,6.014,0
+-125.052,6.047,0
+-125.617,6.44,0
+-125.8,6.584,0
+-126.182,6.901,0
+-126.462,7.155,0
+-126.748,7.434,0
+-127.031,7.726,0
+-127.314,8.045,0
+-127.533,8.299,0
+-127.882,8.762,0
+-127.962,8.874,0
+-128.314,9.451,0
+-128.452,9.685,0
+-128.634,10.029,0
+-128.934,10.608,0
+-129.027,10.795,0
+-129.197,11.189,0
+-129.458,11.773,0
+-129.608,12.039,0
+-129.753,12.359,0
+-130.17,12.946,0
+-130.193,12.969,0
+-130.532,13.537,0
+-130.783,13.799,0
+-131.001,14.129,0
+-131.378,14.541,0
+-131.502,14.725,0
+-131.978,15.271,0
+-132.013,15.323,0
+-132.451,15.925,0
+-132.586,16.074,0
+-132.881,16.529,0
+-133.206,16.998,0
+-133.302,17.136,0
+-133.641,17.747,0
+-133.843,18.125,0
+-134.002,18.362,0
+-134.258,18.979,0
+-134.458,19.6,0
+-134.517,19.796,0
+-134.668,20.225,0
+-134.798,20.854,0
+-134.908,21.486,0
+-135.009,22.123,0
+-135.1,22.764,0
+-135.187,23.41,0
+-135.287,24.062,0
+-135.407,24.657,0
+-135.415,24.719,0
+-135.51,25.381,0
+-135.633,26.049,0
+-135.797,26.724,0
+-135.999,27.405,0
+-136.224,28.094,0
+-136.347,28.465,0
+-136.419,28.789,0
+-136.572,29.491,0
+-136.73,30.201,0
+-136.896,30.919,0
+-137.066,31.646,0
+-137.23,32.382,0
+-137.368,33.126,0
+-137.466,33.88,0
+-137.506,34.644,0
+-137.463,35.417,0
+-137.224,36.198,0
+-137.178,36.265,0
+-137.123,36.993,0
+-137.074,37.803,0
+-137.014,38.626,0
+-136.849,39.469,0
+-136.723,40.315,0
+-136.577,41.184,0
+-136.392,41.86,0
+-136.339,42.07,0
+-136.098,42.975,0
+-135.839,43.768,0
+-135.775,43.9,0
+-135.29,44.845,0
+-135.171,45.055,0
+-134.636,45.812,0
+-134.456,46.201,0
+-134.081,46.808,0
+-133.762,47.838,0
+-133.058,48.896,0
+-132.993,49.181,0
+-132.85,48.893,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_23">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_23n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_23h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_23">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_23n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_23h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_23</styleUrl>
+      <Point>
+        <coordinates>-92.929,1.534,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_23</styleUrl>
+      <Polygon id="beam22">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -92.929,1.534,0
+-93.648,1.322,0
+-94.413,1.435,0
+-94.449,1.53,0
+-94.411,1.535,0
+-93.643,1.575,0
+-92.929,1.534,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_24">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_24n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_24h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_24">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_24n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_24h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_24</styleUrl>
+      <Point>
+        <coordinates>-62.265,67.1,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_24</styleUrl>
+      <Polygon id="beam23">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -62.265,67.1,0
+-65.879,66.746,0
+-66.787,66.19,0
+-61.467,66.284,0
+-62.265,67.1,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_25">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_25n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_25h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_25">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_25n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_25h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_25</styleUrl>
+      <Point>
+        <coordinates>-102.431,50.696,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_25</styleUrl>
+      <Polygon id="beam24">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -54.977,56.056,0
+-66.986,53.909,0
+-71.035,52.996,0
+-72.6,52.738,0
+-75.59,52.308,0
+-78.027,52.014,0
+-80.169,51.786,0
+-82.187,51.551,0
+-84.165,51.266,0
+-86.082,50.943,0
+-87.873,50.641,0
+-89.522,50.389,0
+-91.081,50.159,0
+-92.635,49.875,0
+-94.179,49.537,0
+-95.495,49.396,0
+-96.24,49.89,0
+-96.257,50.331,0
+-96.659,50.772,0
+-97.076,51.393,0
+-97.14,51.59,0
+-98.002,51.982,0
+-99.407,51.716,0
+-100.941,51.221,0
+-101.43,51.045,0
+-102.431,50.696,0
+-103.841,50.202,0
+-105.162,49.664,0
+-105.243,49.628,0
+-106.653,48.932,0
+-107.698,48.429,0
+-107.975,48.288,0
+-109.223,47.694,0
+-110.067,47.257,0
+-110.465,47,0
+-111.702,46.166,0
+-111.712,46.157,0
+-112.928,45.241,0
+-113.095,45.123,0
+-114.046,44.465,0
+-114.565,44.108,0
+-115.117,43.711,0
+-115.864,43.129,0
+-116.164,42.89,0
+-117.002,42.181,0
+-117.181,42.031,0
+-118.058,41.26,0
+-118.162,41.159,0
+-118.971,40.364,0
+-119.129,40.156,0
+-119.673,39.492,0
+-120.069,38.644,0
+-120.204,37.817,0
+-120,37.01,0
+-119.673,36.451,0
+-118.852,36.997,0
+-118.819,37.035,0
+-118.026,37.865,0
+-117.948,37.938,0
+-117.106,38.715,0
+-117.025,38.801,0
+-116.209,39.581,0
+-116.042,39.791,0
+-115.303,40.467,0
+-115.013,40.796,0
+-114.725,40.486,0
+-115.157,39.614,0
+-115.365,39.264,0
+-115.752,38.753,0
+-116.165,37.915,0
+-116.511,37.092,0
+-116.626,36.833,0
+-116.839,36.284,0
+-117.022,35.493,0
+-116.945,35.004,0
+-116.749,35.5,0
+-115.993,36.189,0
+-115.907,36.309,0
+-115.222,37.129,0
+-115.013,37.298,0
+-114.417,37.968,0
+-114.003,38.343,0
+-113.469,38.828,0
+-112.995,39.206,0
+-112.265,39.716,0
+-111.998,39.893,0
+-111.027,40.396,0
+-110.107,40.664,0
+-109.846,39.815,0
+-109.596,39.686,0
+-109.427,39.834,0
+-108.529,40.356,0
+-107.84,40.77,0
+-107.443,40.979,0
+-106.36,41.503,0
+-105.835,41.755,0
+-105.234,42.051,0
+-104.118,42.497,0
+-103.362,42.799,0
+-102.927,43.026,0
+-101.773,43.41,0
+-100.605,43.761,0
+-99.907,43.947,0
+-99.379,44.15,0
+-98.216,44.384,0
+-97.038,44.596,0
+-95.796,44.853,0
+-94.462,45.18,0
+-93.886,45.351,0
+-92.289,46.467,0
+-92.018,46.714,0
+-90.956,47.594,0
+-89.45,48.083,0
+-87.578,48.603,0
+-85.734,49.005,0
+-83.947,49.283,0
+-82.213,49.457,0
+-80.496,49.561,0
+-78.774,49.616,0
+-77.069,49.61,0
+-75.472,49.5,0
+-74.36,49.287,0
+-74.117,49.232,0
+-72.902,48.871,0
+-72.149,48.491,0
+-71.984,48.353,0
+-71.394,47.673,0
+-71.377,47.557,0
+-71.986,46.493,0
+-72.089,46.365,0
+-72.969,45.416,0
+-74.122,44.345,0
+-74.415,44.08,0
+-75.273,43.299,0
+-76.462,42.273,0
+-77.748,41.26,0
+-79.599,40.217,0
+-80.031,40.063,0
+-80.452,40.14,0
+-81.227,40.206,0
+-82.247,40.481,0
+-83.592,39.865,0
+-83.599,39.181,0
+-83.608,39.014,0
+-83.636,38.175,0
+-83.686,37.82,0
+-83.729,37.344,0
+-84.01,36.511,0
+-84.367,35.741,0
+-84.391,35.682,0
+-84.883,34.856,0
+-85.477,34.035,0
+-86.105,33.223,0
+-86.711,32.425,0
+-87.227,31.643,0
+-87.124,30.911,0
+-86.934,30.855,0
+-86.817,30.931,0
+-85.57,31.754,0
+-84.967,32.145,0
+-84.134,32.605,0
+-82.952,33.264,0
+-82.044,32.934,0
+-82.029,32.757,0
+-81.974,32.007,0
+-81.985,31.575,0
+-82.059,31.254,0
+-82.341,30.496,0
+-82.739,29.739,0
+-83.249,28.983,0
+-83.862,28.229,0
+-84.572,27.477,0
+-85.3,26.82,0
+-85.4,26.728,0
+-86.315,25.982,0
+-87.074,25.454,0
+-87.392,25.236,0
+-88.482,24.57,0
+-88.616,24.492,0
+-89.724,23.893,0
+-90.006,23.75,0
+-90.877,23.31,0
+-91.498,23.013,0
+-91.979,22.75,0
+-92.885,22.292,0
+-93.05,22.17,0
+-93.943,21.593,0
+-94.175,21.325,0
+-94.586,20.919,0
+-94.61,20.274,0
+-94.516,20.247,0
+-94.431,20.281,0
+-93.603,20.542,0
+-92.627,20.961,0
+-92.546,21.001,0
+-91.614,21.406,0
+-90.847,21.725,0
+-90.577,21.832,0
+-89.518,22.236,0
+-88.855,22.474,0
+-88.41,22.673,0
+-87.331,22.964,0
+-86.94,22.566,0
+-87.154,21.894,0
+-87.557,21.218,0
+-87.981,20.547,0
+-88.396,19.881,0
+-88.864,19.217,0
+-88.877,19.202,0
+-89.485,18.553,0
+-90.196,17.935,0
+-90.26,17.888,0
+-91.053,17.229,0
+-91.448,16.617,0
+-91.469,16.587,0
+-91.753,15.953,0
+-92.111,15.321,0
+-92.679,14.686,0
+-92.794,14.599,0
+-93.72,14.056,0
+-93.744,14.042,0
+-94.606,13.594,0
+-94.974,13.399,0
+-95.483,13.062,0
+-96.297,12.775,0
+-96.363,12.758,0
+-97.092,12.513,0
+-97.848,12.423,0
+-98.596,12.309,0
+-99.347,12.118,0
+-99.428,12.088,0
+-100.104,11.81,0
+-100.83,11.65,0
+-101.545,11.505,0
+-101.799,11.445,0
+-102.254,11.341,0
+-102.955,11.184,0
+-103.653,10.988,0
+-104.202,10.811,0
+-104.346,10.76,0
+-105.025,10.593,0
+-105.695,10.469,0
+-106.356,10.357,0
+-107.014,10.231,0
+-107.268,10.176,0
+-107.674,10.014,0
+-108.326,9.821,0
+-108.967,9.694,0
+-109.599,9.628,0
+-110.225,9.598,0
+-110.726,9.55,0
+-110.246,9.283,0
+-109.636,9.086,0
+-109.01,9.089,0
+-108.377,9.128,0
+-107.739,9.174,0
+-107.096,9.229,0
+-106.447,9.299,0
+-105.791,9.388,0
+-105.127,9.509,0
+-104.645,9.625,0
+-104.452,9.679,0
+-103.769,9.86,0
+-103.08,10.043,0
+-102.382,10.228,0
+-102.297,10.25,0
+-101.673,10.446,0
+-100.954,10.668,0
+-100.344,10.876,0
+-100.215,10.98,0
+-99.467,11.266,0
+-98.728,11.418,0
+-98.193,11.514,0
+-97.974,11.605,0
+-97.203,11.833,0
+-96.424,12.028,0
+-95.842,12.166,0
+-95.622,12.293,0
+-94.826,12.448,0
+-94.033,12.514,0
+-93.241,12.509,0
+-92.618,12.242,0
+-92.712,11.634,0
+-93.17,11.019,0
+-93.578,10.631,0
+-93.816,10.404,0
+-94.464,9.947,0
+-94.696,9.788,0
+-95.298,9.467,0
+-95.857,9.171,0
+-96.106,9.057,0
+-96.891,8.708,0
+-97.217,8.555,0
+-97.661,8.375,0
+-98.414,8.091,0
+-98.795,7.942,0
+-99.155,7.814,0
+-99.884,7.547,0
+-100.403,7.333,0
+-100.606,7.25,0
+-101.316,6.985,0
+-102.015,6.767,0
+-102.171,6.728,0
+-102.701,6.597,0
+-103.379,6.459,0
+-104.05,6.323,0
+-104.714,6.205,0
+-105.369,6.137,0
+-106.016,6.12,0
+-106.657,6.123,0
+-107.295,6.105,0
+-107.385,6.099,0
+-107.931,6.03,0
+-108.563,5.933,0
+-109.19,5.868,0
+-109.814,5.763,0
+-110.153,5.503,0
+-110.238,4.928,0
+-110.464,4.827,0
+-111.08,4.695,0
+-111.688,4.669,0
+-112.294,4.661,0
+-112.896,4.63,0
+-113.496,4.6,0
+-114.092,4.619,0
+-114.683,4.712,0
+-115.27,4.878,0
+-115.333,4.902,0
+-115.854,5.107,0
+-116.436,5.31,0
+-116.882,5.467,0
+-117.016,5.537,0
+-117.594,5.82,0
+-118.141,6.034,0
+-118.17,6.055,0
+-118.744,6.348,0
+-119.319,6.587,0
+-119.343,6.601,0
+-119.887,7.036,0
+-120.033,7.171,0
+-120.403,7.743,0
+-119.864,8.017,0
+-119.287,7.874,0
+-118.866,7.751,0
+-118.711,7.677,0
+-118.133,7.491,0
+-117.551,7.399,0
+-116.968,7.298,0
+-116.544,7.188,0
+-116.386,7.132,0
+-115.802,6.921,0
+-115.215,6.792,0
+-114.622,6.745,0
+-114.026,6.75,0
+-113.428,6.729,0
+-112.884,6.636,0
+-112.83,6.627,0
+-112.227,6.589,0
+-112.034,6.641,0
+-112.2,7.218,0
+-112.782,7.746,0
+-112.823,7.789,0
+-113.369,8.127,0
+-113.96,8.345,0
+-114.004,8.358,0
+-114.554,8.474,0
+-115.146,8.589,0
+-115.736,8.716,0
+-116.323,8.858,0
+-116.527,8.918,0
+-116.906,9.047,0
+-117.488,9.243,0
+-118.07,9.43,0
+-118.222,9.485,0
+-118.648,9.655,0
+-119.225,9.925,0
+-119.436,10.058,0
+-119.797,10.303,0
+-120.215,10.634,0
+-120.365,10.775,0
+-120.793,11.213,0
+-120.93,11.392,0
+-121.228,11.796,0
+-121.487,12.266,0
+-121.557,12.38,0
+-121.757,12.967,0
+-121.76,13.558,0
+-121.434,13.822,0
+-120.845,13.773,0
+-120.261,13.59,0
+-120.205,13.569,0
+-119.679,13.351,0
+-119.094,13.172,0
+-118.506,13.05,0
+-118.132,12.994,0
+-117.915,12.961,0
+-117.32,12.928,0
+-116.993,13.004,0
+-116.89,13.598,0
+-117.259,13.998,0
+-117.443,14.187,0
+-117.836,14.421,0
+-118.42,14.703,0
+-118.559,14.772,0
+-119.006,14.961,0
+-119.591,15.22,0
+-119.85,15.359,0
+-120.173,15.548,0
+-120.737,15.953,0
+-120.752,15.965,0
+-121.324,16.552,0
+-121.743,17.155,0
+-121.885,17.438,0
+-122.056,17.762,0
+-122.251,18.374,0
+-122.358,18.989,0
+-122.396,19.593,0
+-122.397,19.609,0
+-122.38,19.946,0
+-122.364,20.233,0
+-122.201,20.862,0
+-121.69,21.417,0
+-121.087,21.13,0
+-120.774,20.876,0
+-120.495,20.692,0
+-119.904,20.27,0
+-119.878,20.257,0
+-119.308,19.949,0
+-118.694,19.881,0
+-118.082,20.28,0
+-118.029,20.434,0
+-117.375,20.764,0
+-116.771,20.491,0
+-116.264,20.307,0
+-116.163,20.272,0
+-115.545,20.133,0
+-115.028,20.328,0
+-115.112,20.956,0
+-115.396,21.586,0
+-115.703,22.219,0
+-115.926,22.572,0
+-116.179,22.854,0
+-116.498,23.23,0
+-117.159,23.046,0
+-117.298,22.834,0
+-117.603,22.187,0
+-117.853,21.546,0
+-117.959,21.277,0
+-118.177,21.541,0
+-118.557,21.635,0
+-119.148,22.108,0
+-119.194,22.164,0
+-119.731,22.711,0
+-119.797,22.798,0
+-120.247,23.438,0
+-120.302,23.529,0
+-120.577,24.085,0
+-120.822,24.739,0
+-120.844,24.819,0
+-120.982,25.398,0
+-121.056,26.064,0
+-121.043,26.738,0
+-120.952,27.418,0
+-120.802,28.107,0
+-120.603,28.803,0
+-120.481,29.217,0
+-120.266,29.508,0
+-119.718,30.105,0
+-119.514,29.52,0
+-119.136,29.214,0
+-118.895,28.83,0
+-118.547,28.449,0
+-118.074,28.151,0
+-117.925,28.024,0
+-117.766,28.157,0
+-117.408,28.859,0
+-117.328,29.562,0
+-117.362,30.27,0
+-117.452,30.985,0
+-117.495,31.399,0
+-117.552,31.709,0
+-117.644,32.441,0
+-117.677,33.184,0
+-117.695,33.937,0
+-117.8,34.199,0
+-117.928,33.932,0
+-118.302,33.17,0
+-118.739,32.574,0
+-118.827,32.417,0
+-119.287,31.674,0
+-119.626,30.943,0
+-119.631,30.915,0
+-120.37,30.377,0
+-121.051,30.366,0
+-121.179,30.202,0
+-121.796,29.513,0
+-121.813,29.486,0
+-122.227,28.781,0
+-122.554,28.209,0
+-122.652,28.084,0
+-123.156,27.393,0
+-123.269,27.219,0
+-123.93,26.986,0
+-124.563,27.346,0
+-124.593,27.38,0
+-125.131,28.062,0
+-125.184,28.142,0
+-125.468,28.751,0
+-125.672,29.449,0
+-125.775,30.155,0
+-125.775,30.176,0
+-125.793,30.87,0
+-125.735,31.38,0
+-125.714,31.594,0
+-125.573,32.326,0
+-125.37,33.069,0
+-125.108,33.823,0
+-124.923,34.235,0
+-124.766,34.587,0
+-124.423,35.363,0
+-124.109,35.958,0
+-124.001,36.151,0
+-123.833,36.95,0
+-124.028,37.162,0
+-124.287,36.945,0
+-124.796,36.617,0
+-125.231,36.139,0
+-125.562,35.828,0
+-125.953,35.35,0
+-126.314,34.859,0
+-126.573,34.574,0
+-127.043,33.937,0
+-127.421,33.81,0
+-127.747,33.668,0
+-127.875,33.808,0
+-128.42,34.568,0
+-128.444,34.618,0
+-128.685,35.34,0
+-128.81,36.124,0
+-128.816,36.92,0
+-128.722,37.729,0
+-128.555,38.553,0
+-128.436,38.986,0
+-128.348,39.391,0
+-128.108,40.245,0
+-127.774,41.116,0
+-127.643,41.364,0
+-127.246,42.007,0
+-126.817,42.604,0
+-126.593,42.918,0
+-125.966,43.852,0
+-125.95,43.876,0
+-125.343,44.81,0
+-125.022,45.365,0
+-124.691,45.794,0
+-124.08,46.806,0
+-124.012,47.074,0
+-123.671,47.846,0
+-123.912,48.063,0
+-124.825,47.912,0
+-124.957,47.829,0
+-125.753,47.391,0
+-126.359,46.783,0
+-126.677,46.438,0
+-127.18,45.773,0
+-127.57,45.229,0
+-128.007,44.793,0
+-128.419,44.371,0
+-129.244,43.853,0
+-129.954,44.794,0
+-129.892,45.77,0
+-129.739,46.774,0
+-129.47,47.807,0
+-129.299,48.216,0
+-128.951,48.872,0
+-128.391,49.79,0
+-128.268,49.976,0
+-127.573,51.12,0
+-127.411,51.418,0
+-126.905,52.312,0
+-126.337,53.228,0
+-126.075,53.558,0
+-125.215,54.406,0
+-124.561,54.875,0
+-124.067,55.2,0
+-122.864,55.995,0
+-122.545,56.28,0
+-121.462,57.433,0
+-121.167,57.763,0
+-119.876,59.047,0
+-119.452,59.364,0
+-118.296,60.121,0
+-116.712,60.902,0
+-115.991,61.176,0
+-115.082,61.569,0
+-113.224,62.472,0
+-111.466,63.003,0
+-110.111,62.861,0
+-108.493,63.056,0
+-107.226,63.563,0
+-106.235,63.919,0
+-103.164,65.334,0
+-101.372,66.168,0
+-99.046,67.136,0
+-93.942,68.94,0
+-90.643,69.914,0
+-86.853,70.926,0
+-71.872,73.55,0
+-54.977,56.056,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_26">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_26n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_26h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_26">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_26n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_26h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_26</styleUrl>
+      <Point>
+        <coordinates>-144.973,9.526,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_26</styleUrl>
+      <Polygon id="beam25">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -146.125,13.065,0
+-145.645,12.641,0
+-145.553,12.465,0
+-145.19,11.87,0
+-144.946,11.622,0
+-144.761,11.277,0
+-144.358,10.687,0
+-144.262,10.57,0
+-144.032,10.1,0
+-143.678,9.515,0
+-143.585,9.384,0
+-143.383,8.932,0
+-143.08,8.351,0
+-142.919,8.066,0
+-142.813,7.772,0
+-142.684,7.195,0
+-142.795,6.621,0
+-142.86,6.577,0
+-142.916,6.622,0
+-143.473,7.008,0
+-143.62,7.201,0
+-144.029,7.78,0
+-144.113,7.888,0
+-144.33,8.361,0
+-144.642,8.943,0
+-144.785,9.139,0
+-144.973,9.526,0
+-145.286,10.112,0
+-145.477,10.416,0
+-145.605,10.7,0
+-145.837,11.289,0
+-146.117,11.881,0
+-146.221,12.067,0
+-146.347,12.475,0
+-146.445,13.069,0
+-146.338,13.41,0
+-146.125,13.065,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_27">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_27n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_27h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_27">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_27n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_27h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_27</styleUrl>
+      <Point>
+        <coordinates>-122.716,10.621,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_27</styleUrl>
+      <Polygon id="beam26">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -129.435,20.205,0
+-129.058,19.916,0
+-128.836,19.582,0
+-128.453,19.157,0
+-128.312,18.963,0
+-127.854,18.398,0
+-127.814,18.348,0
+-127.313,17.737,0
+-127.261,17.681,0
+-126.769,17.129,0
+-126.673,17.023,0
+-126.194,16.525,0
+-126.088,16.406,0
+-125.619,15.924,0
+-125.506,15.797,0
+-125.064,15.326,0
+-124.929,15.167,0
+-124.555,14.731,0
+-124.356,14.457,0
+-124.128,14.138,0
+-123.801,13.547,0
+-123.791,13.527,0
+-123.518,12.958,0
+-123.274,12.371,0
+-123.237,12.278,0
+-123.059,11.786,0
+-122.882,11.203,0
+-122.716,10.621,0
+-123.283,10.161,0
+-123.856,10.371,0
+-124.384,10.615,0
+-124.428,10.635,0
+-125,10.953,0
+-125.381,11.194,0
+-125.572,11.315,0
+-126.145,11.716,0
+-126.217,11.776,0
+-126.718,12.171,0
+-126.93,12.359,0
+-127.294,12.692,0
+-127.551,12.947,0
+-127.872,13.303,0
+-128.087,13.536,0
+-128.453,14.059,0
+-128.513,14.127,0
+-128.874,14.721,0
+-129.039,15.086,0
+-129.17,15.319,0
+-129.369,15.919,0
+-129.498,16.521,0
+-129.608,17.127,0
+-129.642,17.311,0
+-129.712,17.736,0
+-129.793,18.348,0
+-129.861,18.963,0
+-129.9,19.583,0
+-129.859,20.205,0
+-129.67,20.598,0
+-129.435,20.205,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_28">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_28n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_28h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_28">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_28n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_28h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_28</styleUrl>
+      <Point>
+        <coordinates>-103.229,18.43,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_28</styleUrl>
+      <Polygon id="beam27">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -113.195,23.563,0
+-112.564,23.37,0
+-112.255,22.935,0
+-112.003,22.682,0
+-111.737,22.301,0
+-111.448,21.963,0
+-111.185,21.673,0
+-110.877,21.363,0
+-110.47,21.052,0
+-110.286,20.89,0
+-109.671,20.581,0
+-109.331,20.446,0
+-109.049,20.303,0
+-108.409,20.125,0
+-107.765,19.96,0
+-107.383,19.863,0
+-107.117,19.791,0
+-106.461,19.66,0
+-105.791,19.582,0
+-105.107,19.558,0
+-104.409,19.576,0
+-103.699,19.626,0
+-102.973,19.72,0
+-102.228,19.866,0
+-101.785,20.023,0
+-101.449,20.119,0
+-100.662,20.357,0
+-99.863,20.591,0
+-99.595,20.733,0
+-99.024,20.934,0
+-98.17,21.266,0
+-97.886,21.438,0
+-97.261,21.729,0
+-96.464,22.142,0
+-96.321,22.218,0
+-95.431,22.483,0
+-95.029,22.201,0
+-95.713,21.603,0
+-95.795,21.519,0
+-96.698,20.972,0
+-96.95,20.828,0
+-97.613,20.488,0
+-98.455,20.203,0
+-98.641,20.127,0
+-99.291,19.882,0
+-100.101,19.607,0
+-100.57,19.428,0
+-100.913,19.265,0
+-101.705,18.945,0
+-102.411,18.744,0
+-102.468,18.712,0
+-103.229,18.43,0
+-103.962,18.245,0
+-104.684,18.076,0
+-104.773,18.055,0
+-104.714,17.898,0
+-104.558,17.441,0
+-104.124,17.327,0
+-103.453,17.208,0
+-102.765,17.149,0
+-102.064,17.135,0
+-101.35,17.152,0
+-100.62,17.212,0
+-99.86,17.377,0
+-99.4,17.583,0
+-99.049,17.724,0
+-98.209,18.134,0
+-97.993,17.625,0
+-98.354,16.992,0
+-98.551,16.593,0
+-98.698,16.363,0
+-99.221,15.733,0
+-99.484,15.597,0
+-100.297,15.105,0
+-100.316,15.092,0
+-101.052,14.861,0
+-101.789,14.657,0
+-102.518,14.453,0
+-102.593,14.43,0
+-103.233,14.283,0
+-103.935,14.144,0
+-104.623,14.054,0
+-105.298,14.015,0
+-105.964,14.01,0
+-106.623,14.013,0
+-107.279,14.001,0
+-107.934,13.962,0
+-108.585,13.916,0
+-109.229,13.891,0
+-109.866,13.888,0
+-110.499,13.896,0
+-111.128,13.907,0
+-111.753,13.922,0
+-112.374,13.951,0
+-112.989,14.018,0
+-113.596,14.151,0
+-113.824,14.229,0
+-114.195,14.366,0
+-114.786,14.657,0
+-115.019,14.812,0
+-115.355,15.235,0
+-115.469,15.407,0
+-115.327,16.012,0
+-115.292,16.036,0
+-114.674,16.046,0
+-114.597,16.022,0
+-114.069,15.881,0
+-113.459,15.753,0
+-112.843,15.671,0
+-112.22,15.631,0
+-111.592,15.61,0
+-110.96,15.6,0
+-110.313,15.691,0
+-109.877,16.1,0
+-110.226,16.451,0
+-110.414,16.698,0
+-110.801,17.026,0
+-111.123,17.297,0
+-111.369,17.646,0
+-111.622,17.902,0
+-111.305,18.18,0
+-110.651,18.254,0
+-110.005,18.235,0
+-109.351,18.241,0
+-108.678,18.582,0
+-109.276,18.777,0
+-109.814,19.179,0
+-109.873,19.201,0
+-110.495,19.433,0
+-110.92,19.78,0
+-111.088,19.868,0
+-111.675,20.347,0
+-111.712,20.392,0
+-112.252,20.903,0
+-112.336,21.011,0
+-112.805,21.642,0
+-113.173,22.269,0
+-113.306,22.781,0
+-113.35,22.91,0
+-113.195,23.563,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_29">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_29n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_29h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_29">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_29n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_29h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_29</styleUrl>
+      <Point>
+        <coordinates>-76.196,19.785,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_29</styleUrl>
+      <Polygon id="beam28">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -49.056,28.333,0
+-56.947,27.19,0
+-57.101,27.152,0
+-60.431,26.221,0
+-62.575,25.361,0
+-64.316,24.54,0
+-65.867,23.743,0
+-65.989,23.678,0
+-67.225,22.968,0
+-68.459,22.209,0
+-69.619,21.463,0
+-70.771,20.726,0
+-70.814,20.698,0
+-71.792,20.004,0
+-72.856,19.286,0
+-73.729,18.785,0
+-74.11,18.568,0
+-75.646,17.844,0
+-75.664,17.837,0
+-77.257,17.234,0
+-77.706,17.108,0
+-78.662,16.82,0
+-79.895,16.638,0
+-80.231,17.004,0
+-79.591,17.674,0
+-79.335,17.837,0
+-78.612,18.363,0
+-77.543,18.985,0
+-77.411,19.07,0
+-76.196,19.785,0
+-75.563,20.15,0
+-74.995,20.507,0
+-73.905,21.232,0
+-72.871,21.939,0
+-72.835,21.964,0
+-71.898,22.696,0
+-70.973,23.435,0
+-69.991,24.186,0
+-68.824,24.956,0
+-67.663,25.518,0
+-67.127,25.772,0
+-64.646,26.652,0
+-63.514,26.948,0
+-60.883,27.641,0
+-57.606,28.366,0
+-54.907,28.817,0
+-49.162,29.411,0
+-49.056,28.333,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_30">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_30n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_30h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_30">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_30n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_30h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_30</styleUrl>
+      <Point>
+        <coordinates>-49.776,34.713,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_30</styleUrl>
+      <Polygon id="beam29">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -49.776,34.713,0
+-52.837,34.391,0
+-57.715,33.179,0
+-60.367,32.18,0
+-62.302,31.258,0
+-63.837,30.382,0
+-65.154,29.535,0
+-66.375,28.707,0
+-67.58,27.891,0
+-68.92,27.077,0
+-70.05,26.553,0
+-70.813,26.237,0
+-72.583,25.673,0
+-74.358,25.349,0
+-74.999,25.966,0
+-74.117,26.728,0
+-73.051,27.512,0
+-71.893,28.311,0
+-70.709,29.124,0
+-69.56,29.945,0
+-68.453,30.774,0
+-67.363,31.614,0
+-66.267,32.465,0
+-65.127,33.333,0
+-63.841,34.227,0
+-62.158,35.169,0
+-59.268,36.238,0
+-50.195,37.657,0
+-49.776,34.713,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_31">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_31n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_31h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_31">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_31n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_31h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_31</styleUrl>
+      <Point>
+        <coordinates>-127.557,20.206,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_31</styleUrl>
+      <Polygon id="beam30">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -127.03,27.367,0
+-126.518,26.874,0
+-126.382,26.691,0
+-125.896,26.049,0
+-125.878,26.021,0
+-125.478,25.357,0
+-125.288,25.016,0
+-125.135,24.699,0
+-124.857,24.045,0
+-124.702,23.67,0
+-124.595,23.397,0
+-124.378,22.753,0
+-124.198,22.114,0
+-124.143,21.878,0
+-124.041,21.48,0
+-123.925,20.849,0
+-123.836,20.222,0
+-123.777,19.599,0
+-123.776,18.979,0
+-123.892,18.362,0
+-124.244,17.748,0
+-124.275,17.714,0
+-124.876,17.579,0
+-125.246,17.743,0
+-125.469,17.822,0
+-126.059,18.273,0
+-126.131,18.352,0
+-126.65,18.912,0
+-126.694,18.966,0
+-127.146,19.584,0
+-127.244,19.725,0
+-127.557,20.206,0
+-127.844,20.757,0
+-127.891,20.833,0
+-128.172,21.463,0
+-128.364,22.099,0
+-128.453,22.495,0
+-128.532,22.738,0
+-128.658,23.383,0
+-128.727,24.033,0
+-128.745,24.687,0
+-128.702,25.347,0
+-128.586,26.014,0
+-128.451,26.488,0
+-128.383,26.686,0
+-128.052,27.365,0
+-127.801,27.709,0
+-127.154,27.514,0
+-127.03,27.367,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_32">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_32n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_32h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_32">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_32n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_32h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_32</styleUrl>
+      <Point>
+        <coordinates>-152.04,29.908,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_32</styleUrl>
+      <Polygon id="beam31">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -161.194,55.083,0
+-159.984,53.703,0
+-159.735,53.319,0
+-159.478,52.443,0
+-158.998,51.234,0
+-158.822,50.843,0
+-159.021,50.108,0
+-158.372,48.968,0
+-157.756,47.939,0
+-157.765,47.867,0
+-157.383,46.815,0
+-156.833,45.78,0
+-156.315,44.775,0
+-155.853,43.798,0
+-155.461,42.849,0
+-155.159,41.978,0
+-155.164,41.927,0
+-155.191,41.042,0
+-155.005,40.163,0
+-154.743,39.295,0
+-154.735,39.268,0
+-154.724,38.457,0
+-154.532,37.624,0
+-154.296,36.802,0
+-154.034,35.991,0
+-153.762,35.193,0
+-153.494,34.407,0
+-153.232,33.632,0
+-152.978,32.867,0
+-152.735,32.113,0
+-152.498,31.369,0
+-152.265,30.634,0
+-152.04,29.908,0
+-151.832,29.191,0
+-151.638,28.482,0
+-151.436,27.78,0
+-151.215,27.084,0
+-150.99,26.395,0
+-150.77,25.713,0
+-150.566,25.037,0
+-150.391,24.368,0
+-150.24,23.705,0
+-150.063,23.047,0
+-149.733,22.389,0
+-149.493,22.159,0
+-149.34,21.736,0
+-149.082,21.09,0
+-148.807,20.449,0
+-148.543,19.813,0
+-148.362,19.183,0
+-148.434,18.562,0
+-148.858,18.35,0
+-148.974,18.574,0
+-149.305,19.204,0
+-149.65,19.839,0
+-149.814,20.148,0
+-149.928,20.477,0
+-150.107,21.117,0
+-150.255,21.76,0
+-150.398,22.408,0
+-150.57,23.062,0
+-150.837,23.723,0
+-151.326,24.397,0
+-151.359,24.428,0
+-151.674,25.073,0
+-152.011,25.754,0
+-152.31,26.441,0
+-152.522,27.131,0
+-152.63,27.824,0
+-152.698,28.522,0
+-152.804,29.229,0
+-152.954,29.945,0
+-153.126,30.67,0
+-153.325,31.405,0
+-153.566,32.15,0
+-153.858,32.907,0
+-154.194,33.677,0
+-154.549,34.458,0
+-154.889,35.249,0
+-155.195,36.051,0
+-155.467,36.864,0
+-155.645,37.433,0
+-155.644,37.684,0
+-155.769,38.516,0
+-155.971,39.366,0
+-156.209,40.234,0
+-156.382,40.771,0
+-156.404,41.115,0
+-156.734,42.023,0
+-157.195,42.959,0
+-157.683,43.919,0
+-158.149,44.9,0
+-158.583,45.903,0
+-158.737,46.299,0
+-158.733,46.912,0
+-159.034,47.962,0
+-159.249,48.494,0
+-159.019,49.017,0
+-159.662,50.159,0
+-160.507,51.358,0
+-160.873,51.857,0
+-161.321,52.6,0
+-162.27,53.906,0
+-163.293,55.278,0
+-163.681,55.892,0
+-162.832,56.378,0
+-161.194,55.083,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_33">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_33n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_33h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_33">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_33n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_33h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_33</styleUrl>
+      <Point>
+        <coordinates>-102.953,23,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_33</styleUrl>
+      <Polygon id="beam32">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -102.044,23.238,0
+-102.173,23.19,0
+-102.953,23,0
+-103.676,23.013,0
+-103.881,23.174,0
+-103.625,23.224,0
+-102.865,23.359,0
+-102.141,23.313,0
+-102.044,23.238,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_34">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_34n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_34h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_34">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_34n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_34h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_34</styleUrl>
+      <Point>
+        <coordinates>-110.283,24.966,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_34</styleUrl>
+      <Polygon id="beam33">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -110.62,25.609,0
+-110.283,24.966,0
+-110.273,24.952,0
+-110.291,24.922,0
+-110.984,24.86,0
+-111.074,24.93,0
+-111.453,25.586,0
+-110.798,25.9,0
+-110.62,25.609,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_35">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_35n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_35h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_35">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_35n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_35h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_35</styleUrl>
+      <Point>
+        <coordinates>-111.446,26.258,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_35</styleUrl>
+      <Polygon id="beam34">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -111.391,26.26,0
+-111.455,26.067,0
+-111.446,26.258,0
+-111.413,26.302,0
+-111.391,26.26,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_36">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_36n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_36h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_36">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_36n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_36h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_36</styleUrl>
+      <Point>
+        <coordinates>-94.639,26.868,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_36</styleUrl>
+      <Polygon id="beam35">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -94.522,27.149,0
+-94.551,26.923,0
+-94.639,26.868,0
+-94.722,26.914,0
+-94.522,27.149,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_37">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_37n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_37h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_37">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_37n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_37h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_37</styleUrl>
+      <Point>
+        <coordinates>-91.324,30.647,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_37</styleUrl>
+      <Polygon id="beam36">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -90.03,32.204,0
+-90.173,31.452,0
+-90.375,30.705,0
+-90.77,29.954,0
+-91.461,29.196,0
+-92.002,28.787,0
+-92.48,28.428,0
+-93.404,27.676,0
+-93.431,27.658,0
+-93.533,27.669,0
+-93.375,28.379,0
+-92.784,29.045,0
+-92.586,29.132,0
+-91.896,29.888,0
+-91.324,30.647,0
+-90.749,31.416,0
+-90.173,32.194,0
+-89.983,32.436,0
+-90.03,32.204,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_38">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_38n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_38h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_38">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_38n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_38h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_38</styleUrl>
+      <Point>
+        <coordinates>-113.533,32.548,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_38</styleUrl>
+      <Polygon id="beam37">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -113.241,34.059,0
+-113.344,33.3,0
+-113.533,32.548,0
+-113.782,31.804,0
+-113.996,31.261,0
+-114.114,31.068,0
+-114.58,30.336,0
+-114.944,29.851,0
+-115.213,30.32,0
+-115.214,31.038,0
+-115.008,31.771,0
+-114.66,32.516,0
+-114.394,32.971,0
+-114.142,33.276,0
+-113.667,34.046,0
+-113.318,34.637,0
+-113.241,34.059,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_39">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_39n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_39h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_39">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_39n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_39h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_39</styleUrl>
+      <Point>
+        <coordinates>-111.175,31.019,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_39</styleUrl>
+      <Polygon id="beam38">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -110.842,31.897,0
+-111.091,31.159,0
+-111.175,31.019,0
+-111.177,31.156,0
+-111.034,31.89,0
+-110.909,32.191,0
+-110.842,31.897,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_40">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_40n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_40h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_40">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_40n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_40h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_40</styleUrl>
+      <Point>
+        <coordinates>-109.967,33.001,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_40</styleUrl>
+      <Polygon id="beam39">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -109.487,34.191,0
+-109.788,33.421,0
+-109.967,33.001,0
+-110.066,33.411,0
+-109.849,34.177,0
+-109.53,34.641,0
+-109.487,34.191,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_41">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_41n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_41h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_41">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_41n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_41h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_41</styleUrl>
+      <Point>
+        <coordinates>-94.716,34.179,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_41</styleUrl>
+      <Polygon id="beam40">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -94.68,34.181,0
+-94.719,34.152,0
+-94.716,34.179,0
+-94.688,34.209,0
+-94.68,34.181,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_42">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_42n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_42h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_42">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_42n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_42h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_42</styleUrl>
+      <Point>
+        <coordinates>-108.616,35.122,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_42</styleUrl>
+      <Polygon id="beam41">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -108.336,36.042,0
+-108.086,35.799,0
+-108.616,35.122,0
+-108.632,35.775,0
+-108.336,36.042,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_43">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_43n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_43h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_43">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_43n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_43h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_43</styleUrl>
+      <Point>
+        <coordinates>-107.495,36.179,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_43</styleUrl>
+      <Polygon id="beam42">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -107.23,36.968,0
+-106.875,36.646,0
+-107.495,36.179,0
+-107.719,36.608,0
+-107.23,36.968,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_44">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_44n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_44h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_44n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_44h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_44</styleUrl>
+      <Point>
+        <coordinates>-106.477,37.471,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_44</styleUrl>
+      <Polygon id="beam43">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -105.426,37.523,0
+-106.359,37.123,0
+-106.477,37.471,0
+-106.158,37.673,0
+-105.426,37.523,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_45">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_45n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_45h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_45">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_45n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_45h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_45</styleUrl>
+      <Point>
+        <coordinates>-104.707,38.381,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_45</styleUrl>
+      <Polygon id="beam44">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -103.789,38.429,0
+-104.258,38.224,0
+-104.707,38.381,0
+-104.083,38.642,0
+-103.789,38.429,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_46">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_46n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_46h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_46">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_46n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_46h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_46</styleUrl>
+      <Point>
+        <coordinates>-91.627,40.486,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_46</styleUrl>
+      <Polygon id="beam45">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -92.476,40.871,0
+-92.541,40.678,0
+-91.627,40.486,0
+-91.192,40.103,0
+-92.16,39.769,0
+-93.08,39.933,0
+-93.145,39.955,0
+-93.651,40.583,0
+-94.603,40.684,0
+-94.795,40.698,0
+-94.552,40.758,0
+-93.381,40.961,0
+-92.476,40.871,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_47">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_47n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_47h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_47">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_47n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_47h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_47</styleUrl>
+      <Point>
+        <coordinates>-82.933,40.787,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_47</styleUrl>
+      <Polygon id="beam46">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -82.933,40.787,0
+-83.441,40.572,0
+-83.461,40.74,0
+-83.153,40.844,0
+-82.933,40.787,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_48">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_48n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_48h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_48">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_48n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_48h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_48</styleUrl>
+      <Point>
+        <coordinates>-51.269,43.674,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_48</styleUrl>
+      <Polygon id="beam47">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -51.269,43.674,0
+-55.321,43.489,0
+-55.056,43.579,0
+-54.198,44.603,0
+-54.401,44.597,0
+-53.902,45.585,0
+-53.862,45.61,0
+-52.275,47.983,0
+-51.269,43.674,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_49">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_49n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_49h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_49">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_49n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_49h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_49</styleUrl>
+      <Point>
+        <coordinates>-94.446,48.325,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_49</styleUrl>
+      <Polygon id="beam48">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -94.446,48.325,0
+-94.626,47.711,0
+-94.755,47.266,0
+-95.101,47.145,0
+-96.749,46.457,0
+-97.634,46.035,0
+-98.265,45.837,0
+-99.571,45.436,0
+-100.877,44.962,0
+-101.261,44.803,0
+-102.118,44.524,0
+-103.278,44.163,0
+-104.428,43.761,0
+-104.85,43.633,0
+-105.505,43.447,0
+-106.472,43.329,0
+-106.702,43.529,0
+-106.19,44.499,0
+-105.705,44.993,0
+-105.173,45.523,0
+-104.016,46.398,0
+-103.718,46.605,0
+-102.481,47.316,0
+-101.281,47.792,0
+-101.096,47.865,0
+-99.809,48.191,0
+-98.523,48.462,0
+-97.125,48.826,0
+-95.673,49.19,0
+-94.547,49.134,0
+-94.446,48.325,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_50">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_50n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_50h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_50">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_50n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_50h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_50</styleUrl>
+      <Point>
+        <coordinates>-91.802,78.875,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_50</styleUrl>
+      <Polygon id="beam49">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.802,78.875,0
+-102.518,75.64,0
+-106.632,73.721,0
+-111.609,70.55,0
+-113.699,69.059,0
+-115.903,67.408,0
+-116.938,66.66,0
+-119.272,64.91,0
+-119.292,64.894,0
+-121.369,62.805,0
+-121.423,62.741,0
+-122.868,60.942,0
+-123.241,60.521,0
+-124.56,59.241,0
+-124.692,59.131,0
+-125.975,58.213,0
+-126.571,57.67,0
+-127.207,56.853,0
+-127.61,56.214,0
+-128.348,54.91,0
+-128.396,54.844,0
+-129.384,53.661,0
+-129.538,53.545,0
+-130.374,52.846,0
+-131.166,52.312,0
+-131.33,52.135,0
+-132.094,52.32,0
+-132.226,53.561,0
+-132.152,54.86,0
+-131.886,56.225,0
+-131.663,56.604,0
+-131.298,57.669,0
+-130.663,58.607,0
+-130.167,59.209,0
+-129.51,59.799,0
+-128.614,60.875,0
+-128.258,61.34,0
+-127.538,62.7,0
+-126.769,64.135,0
+-126.397,64.738,0
+-124.986,66.495,0
+-124.323,67.097,0
+-122.999,68.114,0
+-120.656,70.02,0
+-120.507,70.139,0
+-115.977,74.082,0
+-115.875,74.164,0
+-103.116,80.164,0
+-91.802,78.875,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_51">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_51n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_51h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_51">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_51n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_51h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_51</styleUrl>
+      <Point>
+        <coordinates>-108.913,54.633,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_51</styleUrl>
+      <Polygon id="beam50">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -108.913,54.633,0
+-108.786,54.17,0
+-109.282,53.963,0
+-110.51,53.73,0
+-110.533,54.069,0
+-110.263,54.218,0
+-108.913,54.633,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+       
+
+    <Style id="colset_52">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_52n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_52h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/18.4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_52">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_52n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_52h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_52</styleUrl>
+      <Point>
+        <coordinates>-101.734,57.387,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 18.4</name>
+      <styleUrl>#colset_52</styleUrl>
+      <Polygon id="beam51">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -101.734,57.387,0
+-102.286,57.164,0
+-104.176,56.403,0
+-105.072,55.734,0
+-106.165,55.32,0
+-107.556,54.984,0
+-107.743,55.55,0
+-107.023,55.829,0
+-105.434,56.379,0
+-104.026,57.203,0
+-103.346,57.451,0
+-101.929,57.576,0
+-101.734,57.387,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+        
+  </Document>
+</kml>

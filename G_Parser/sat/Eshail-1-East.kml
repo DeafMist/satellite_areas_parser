@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Eshail-1-East</name>
+
+       
+
+    <Style id="colset_1">
+      <LineStyle>
+        <color>66143CA0</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>150099FF</color>
+        <outline>1</outline>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+
+    <Style id="gainp_1n">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/50.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="gainp_1h">
+      <IconStyle>
+        <scale>3</scale>
+        <Icon>
+          <href>http://genmap.lyngsat.org/data/kml_styles/2/numbers/50.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+ 
+    <StyleMap id="gainp_1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gainp_1n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gainp_1h</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <Placemark>
+      <styleUrl>#gainp_1</styleUrl>
+      <Point>
+        <coordinates>8.2091901310212,59.563163071667,0
+</coordinates>
+      </Point>
+    </Placemark>
+     
+
+    <Placemark>
+      <name>Gain 50</name>
+      <styleUrl>#colset_1</styleUrl>
+      <Polygon id="beam0">
+        <tessellate>1</tessellate>
+        <extrude>1</extrude>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              7.91699102346,59.563163071667,0
+8.2091901310212,59.563163071667,0
+13.176552146751,45.289476677373,0
+18.87440812925,40.631748750021,0
+19.312705523213,40.331248744546,0
+19.897101203579,40.331248744546,0
+20.627595170347,39.580002641008,0
+20.627595170347,39.279505242298,0
+20.919794277908,38.979005236824,0
+21.06589256431,38.678507838114,0
+21.06589256431,40.631748750021,0
+21.06589256431,45.890474081556,0
+20.627595170347,47.843714993463,0
+19.458803809615,49.045709801831,0
+18.87440812925,49.346209807305,0
+17.997815876079,50.848702014383,0
+17.559518482116,51.299450719212,0
+16.829024515348,52.651694226934,0
+15.368036581812,52.801942926289,0
+12.592156466386,54.003937734657,0
+11.715564213215,54.755183838196,0
+11.569463392057,55.35618124238,0
+11.13116853285,55.957178646564,0
+11.13116853285,56.858673449457,0
+10.838969425289,57.91041955847,0
+10.692871138886,59.563163071667,0
+9.2318832053502,60.164160475851,0
+8.9396840977892,60.464657874561,0
+8.6474875249844,60.464657874561,0
+7.91699102346,60.464657874561,0
+7.91699102346,59.563163071667,0
+    
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+        
+  </Document>
+</kml>
