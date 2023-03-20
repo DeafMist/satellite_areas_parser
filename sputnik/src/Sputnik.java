@@ -1,8 +1,8 @@
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
+
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Sputnik {
     private List<Feature>features;
@@ -68,25 +68,23 @@ class Feature{
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Geometry{
 
-    private HashMap<String,String> polygons;
+    private List<Poly> polygons = new ArrayList<>();
 
-    public Geometry(HashMap<String, String> polygons) {
+    public Geometry(List<Poly> polygons) {
         this.polygons = polygons;
     }
 
     public Geometry() {
     }
 
-    public HashMap<String, String> getPolygons() {
+    public List<Poly> getPolygons() {
         return polygons;
     }
     @JsonProperty("coordinates")
     public void setPolygons(List<List<List<String>>> polygons) {
-        this.polygons = new HashMap<>();
         for(List<String> list: polygons.get(0)){
-            this.polygons.put(list.get(0), list.get(1) );
-        }
-
+        this.polygons.add(new Poly(list.get(0),list.get(1)));
+    }
     }
 
     @Override
@@ -96,6 +94,39 @@ class Geometry{
                 '}';
     }
 }
+class Poly{
+   private String polyX; private String polyY;
+
+    public Poly(String polyX, String polyY) {
+        this.polyX = polyX;
+        this.polyY = polyY;
+    }
+
+    public String getPolyX() {
+        return polyX;
+    }
+
+    public void setPolyX(String polyX) {
+        this.polyX = polyX;
+    }
+
+    public String getPolyY() {
+        return polyY;
+    }
+
+    public void setPolyY(String polyY) {
+        this.polyY = polyY;
+    }
+
+    @Override
+    public String toString() {
+        return "Poly{" +
+                "polyX='" + polyX + '\'' +
+                ", polyY='" + polyY + '\'' +
+                '}';
+    }
+}
+
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Property{
     private String name;private String description;
@@ -125,7 +156,7 @@ class Property{
     @Override
     public String toString() {
         return "Property{" +
-                "name='" + name + '\'' +"description="+description+'\''+
+                "name='" + name + '\'' +", description='"+description+'\''+
                 '}';
     }
 }
