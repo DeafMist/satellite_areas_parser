@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, URISyntaxException {
 
-        String url = "https://www.gazprom-spacesystems.ru/local/ajax/mapZones/db.php";
+        String url = "https://www.gazprom-spacesystems.ru/local/ajax/en/mapZones/db.php";
 
         try {
 
