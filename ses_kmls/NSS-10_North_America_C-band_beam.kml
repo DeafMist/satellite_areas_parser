@@ -1,0 +1,235 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>NSS-10_North_America_C-band_beam.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>NSS-10_North_America_C-band_beam</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -109.9,60 -111.4,57.1 -111.5,56.09999999999999 -97.7,52.9 -94.59999999999999,51.99999999999999 -86.3,49.4 -86,49.4 -81.8,48.5 -78.8,48.10000000000001 -76.7,48.5 -76.7,48.5 -77,50.60000000000001 -80.5,53.2 -88.5,56.6 -90.30000000000001,57.2 -109.1,60.9 -109.9,60</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -109.9,60 -111.4,57.1 -111.5,56.09999999999999 -97.7,52.9 -94.59999999999999,51.99999999999999 -86.3,49.4 -86,49.4 -81.8,48.5 -78.8,48.10000000000001 -76.7,48.5 -76.7,48.5 -77,50.60000000000001 -80.5,53.2 -88.5,56.6 -90.30000000000001,57.2 -109.1,60.9 -109.9,60</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -108.2,62.7 -111.4,57.1 -113.8,49.9 -115.7,42.5 -116.2,38.5 -111.6,37.6 -108.3,36.5 -106.2,35.5 -103.7,33.7 -104,32.7 -104.7,32.3 -108,31.9 -117.1,32.1 -117.2,32.1 -117.5,29.2 -117.7,25.8 -105.1,23.8 -97.39999999999999,22.7 -93.3,23.10000000000001 -91.8,24.3 -91.8,26.4 -92.59999999999998,28.5 -92.09999999999999,29.9 -88.2,30.9 -86,31.3 -82.8,32.1 -81.59999999999999,33.5 -82,35 -84.59999999999999,38.4 -88.5,42.1 -89.8,44 -88.09999999999999,44.7 -85.2,44.7 -79.5,44.2 -74.7,43.9 -71.5,44.2 -69.59999999999999,45.40000000000001 -69.3,45.9 -69.40000000000001,47.8 -70.8,50 -74.3,53.09999999999999 -78.2,55.4 -86.3,58.89999999999999 -87,59.10000000000001 -107.2,63.7 -108.2,62.7</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -108.2,62.7 -111.4,57.1 -113.8,49.9 -115.7,42.5 -116.2,38.5 -111.6,37.6 -108.3,36.5 -106.2,35.5 -103.7,33.7 -104,32.7 -104.7,32.3 -108,31.9 -117.1,32.1 -117.2,32.1 -117.5,29.2 -117.7,25.8 -105.1,23.8 -97.39999999999999,22.7 -93.3,23.10000000000001 -91.8,24.3 -91.8,26.4 -92.59999999999998,28.5 -92.09999999999999,29.9 -88.2,30.9 -86,31.3 -82.8,32.1 -81.59999999999999,33.5 -82,35 -84.59999999999999,38.4 -88.5,42.1 -89.8,44 -88.09999999999999,44.7 -85.2,44.7 -79.5,44.2 -74.7,43.9 -71.5,44.2 -69.59999999999999,45.40000000000001 -69.3,45.9 -69.40000000000001,47.8 -70.8,50 -74.3,53.09999999999999 -78.2,55.4 -86.3,58.89999999999999 -87,59.10000000000001 -107.2,63.7 -108.2,62.7</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -106.1,65.40000000000001 -109.9,60 -112.5,54 -114.5,46.7 -116.3,39.1 -117.2,32.1 -117.9,26.6 -118,21.8 -102.3,20.3 -94.90000000000001,19.8 -89.8,20.2 -87.90000000000001,21 -86.59999999999999,22.5 -86.09999999999999,24 -85.59999999999999,25.3 -84.8,26.6 -82.7,27.8 -79.90000000000001,28.7 -78.2,29.2 -76.59999999999999,30.2 -76.3,32.2 -77.3,34.7 -79.09999999999999,37.9 -79.3,39.6 -78.3,40.6 -76.7,41 -74.59999999999999,41.2 -70.8,41.5 -67.90000000000001,42.1 -66.3,43.2 -65.5,45.2 -66.09999999999999,47.59999999999999 -67.5,49.8 -69.8,52.2 -74.40000000000001,55.5 -79.8,58.2 -87.5,61.1 -95,63.20000000000001 -105.9,65.3 -106.1,65.40000000000001</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>6</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -106.1,65.40000000000001 -109.9,60 -112.5,54 -114.5,46.7 -116.3,39.1 -117.2,32.1 -117.9,26.6 -118,21.8 -102.3,20.3 -94.90000000000001,19.8 -89.8,20.2 -87.90000000000001,21 -86.59999999999999,22.5 -86.09999999999999,24 -85.59999999999999,25.3 -84.8,26.6 -82.7,27.8 -79.90000000000001,28.7 -78.2,29.2 -76.59999999999999,30.2 -76.3,32.2 -77.3,34.7 -79.09999999999999,37.9 -79.3,39.6 -78.3,40.6 -76.7,41 -74.59999999999999,41.2 -70.8,41.5 -67.90000000000001,42.1 -66.3,43.2 -65.5,45.2 -66.09999999999999,47.59999999999999 -67.5,49.8 -69.8,52.2 -74.40000000000001,55.5 -79.8,58.2 -87.5,61.1 -95,63.20000000000001 -105.9,65.3 -106.1,65.40000000000001</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -108.2,62.7 -111.4,57.1 -113.8,49.9 -115.7,42.5 -116.5,36.7 -117.5,29.2 -117.9,23.6 -118.2,18.5 -104.4,18.2 -97.3,18 -93.60000000000001,18 -88.7,18.3 -86.7,18.8 -84.7,20 -83.7,21.2 -82.8,23.3 -81.59999999999999,24.8 -80.2,25.8 -78.59999999999999,26.3 -75.40000000000001,27.2 -73.90000000000001,27.8 -72.8,29 -72.90000000000001,31.4 -74.2,34.5 -74.8,36 -74.8,37.6 -74.40000000000001,38.2 -72.59999999999999,39.1 -69.59999999999999,39.6 -66.40000000000001,40.2 -64.90000000000001,40.8 -63.7,41.8 -62.9,43.9 -63.7,47.4 -67.2,51.99999999999999 -72.09999999999999,55.8 -75.5,57.79999999999999 -84.90000000000001,61.8 -85.2,61.89999999999999 -104.8,66.5 -108.2,62.7</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -108.2,62.7 -111.4,57.1 -113.8,49.9 -115.7,42.5 -116.5,36.7 -117.5,29.2 -117.9,23.6 -118.2,18.5 -104.4,18.2 -97.3,18 -93.60000000000001,18 -88.7,18.3 -86.7,18.8 -84.7,20 -83.7,21.2 -82.8,23.3 -81.59999999999999,24.8 -80.2,25.8 -78.59999999999999,26.3 -75.40000000000001,27.2 -73.90000000000001,27.8 -72.8,29 -72.90000000000001,31.4 -74.2,34.5 -74.8,36 -74.8,37.6 -74.40000000000001,38.2 -72.59999999999999,39.1 -69.59999999999999,39.6 -66.40000000000001,40.2 -64.90000000000001,40.8 -63.7,41.8 -62.9,43.9 -63.7,47.4 -67.2,51.99999999999999 -72.09999999999999,55.8 -75.5,57.79999999999999 -84.90000000000001,61.8 -85.2,61.89999999999999 -104.8,66.5 -108.2,62.7</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>9</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -103.5,68 -106.1,65.40000000000001 -109.9,60 -112.5,54 -114.5,46.7 -116.3,39.1 -117.2,32.1 -117.9,26.6 -118.2,18.8 -118.4,12.6 -107.2,13.3 -102,14.4 -97.7,15.1 -94.5,15.4 -89.7,15.6 -85.5,16.1 -83.59999999999999,16.6 -82,17.4 -80.59999999999999,18.7 -79.5,20.4 -78.3,22 -77,23 -75.5,23.6 -72.40000000000001,24.3 -71,24.60000000000001 -68.59999999999999,25.7 -67.90000000000001,27 -68.09999999999999,29.6 -68.59999999999999,31.2 -69.3,34.2 -68.8,35.6 -66.3,36.7 -64.90000000000001,37.1 -62,38.1 -60.7,39 -59.6,40.4 -59.10000000000001,43.2 -59.5,45.2 -61.5,49.29999999999999 -64.8,53.2 -69.8,57.2 -76.3,60.8 -93.09999999999998,66.5 -102.8,68.40000000000001 -103.5,68</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>10</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -103.5,68 -106.1,65.40000000000001 -109.9,60 -112.5,54 -114.5,46.7 -116.3,39.1 -117.2,32.1 -117.9,26.6 -118.2,18.8 -118.4,12.6 -107.2,13.3 -102,14.4 -97.7,15.1 -94.5,15.4 -89.7,15.6 -85.5,16.1 -83.59999999999999,16.6 -82,17.4 -80.59999999999999,18.7 -79.5,20.4 -78.3,22 -77,23 -75.5,23.6 -72.40000000000001,24.3 -71,24.60000000000001 -68.59999999999999,25.7 -67.90000000000001,27 -68.09999999999999,29.6 -68.59999999999999,31.2 -69.3,34.2 -68.8,35.6 -66.3,36.7 -64.90000000000001,37.1 -62,38.1 -60.7,39 -59.6,40.4 -59.10000000000001,43.2 -59.5,45.2 -61.5,49.29999999999999 -64.8,53.2 -69.8,57.2 -76.3,60.8 -93.09999999999998,66.5 -102.8,68.40000000000001 -103.5,68</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>44</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.94824622437515, 48.2786410775033</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>43</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-106.3957136936593, 35.55852500083183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>43</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-74.84122589937984, 53.42939244292451</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>42</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-70.43297901929925, 52.46337500537113</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>41</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-65.67832095055245, 50.56871182367922</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-61.00756877517927, 48.34953915276547</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
