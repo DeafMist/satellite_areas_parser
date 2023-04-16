@@ -70,7 +70,7 @@ def get_gazprom_kmls():
     names, values, coordinates = get_gazprom_data()
 
     for name in names:
-        kml_generator(name, values[name], coordinates[name])
+        kml_generator(name, coordinates[name], values=values[name])
 
 
 get_gazprom_kmls()

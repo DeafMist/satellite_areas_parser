@@ -1,11 +1,16 @@
-from typing import List
+from typing import List, Tuple
 
 from lxml import etree
 from pykml.factory import GX_ElementMaker as GX
 from pykml.factory import KML_ElementMaker as KML
 
 
-def kml_generator(name: str, values: List[str], coordinates: List[str]):
+def kml_generator(name: str, coordinates: List[str], values: List[str] = None, points: List[Tuple[str, str, str]] = None):
+    if points is None:
+        points = list()
+    if values is None:
+        values = list()
+
     doc = KML.kml(
         KML.Document(
             KML.name(name + '.kml'),
@@ -45,30 +50,48 @@ def kml_generator(name: str, values: List[str], coordinates: List[str]):
         )
     )
 
-    polygons_number = len(values)
-
+    polygons_number = len(coordinates)
     for i in range(1, polygons_number + 1):
-        doc.Document.Folder.append(
-            KML.Placemark(
-                KML.name(i),
-                KML.styleUrl('#stylename'),
+        placemark = KML.Placemark(
+            KML.name(i),
+            KML.styleUrl('#stylename'),
+            KML.Polygon(
+                KML.tesselate('1'),
+                KML.extrude('1'),
+                KML.altitudeMode('clampedToGround'),
+                KML.outerBoundaryIs(
+                    KML.LinearRing(
+                        KML.coordinates(
+                            coordinates[i - 1]
+                        )
+                    )
+                )
+            )
+        )
+
+        if len(values) != 0:
+            placemark.append(
                 KML.ExtendedData(
                     KML.Data(
                         KML.value(values[i - 1]),
                         name='EIRP'
                     )
                 ),
-                KML.Polygon(
-                    KML.tesselate('1'),
-                    KML.extrude('1'),
-                    KML.altitudeMode('clampedToGround'),
-                    KML.outerBoundaryIs(
-                        KML.LinearRing(
-                            KML.coordinates(
-                                coordinates[i - 1]
-                            )
-                        )
+            )
+
+        doc.Document.Folder.append(placemark)
+
+    for lon, lat, eirp in points:
+        doc.Document.Folder.append(
+            KML.Placemark(
+                KML.ExtendedData(
+                    KML.Data(
+                        KML.value(eirp),
+                        name='EIRP'
                     )
+                ),
+                KML.Point(
+                    KML.coordinates(lon + ', ' + lat)
                 )
             )
         )
