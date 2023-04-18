@@ -1,0 +1,97 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>ASTRA_2F_UK_Ku-band_spot_beam.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ASTRA_2F_UK_Ku-band_spot_beam</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -35.698,69.551 -32.436,68.947 -23.988,66.352 -19.018,63.93200000000001 -16.856,62.238 -15.53,60.885 -14.92,59.736 -15.097,58.511 -15.165,58.328 -16.523,57.568 -18.564,57.185 -20.044,56.96500000000001 -20.544,56.74 -21.233,55.634 -21,55.085 -18.081,52.885 -14.489,50.748 -12.137,49.538 -10.509,48.70200000000001 -8.412000000000001,47.803 -5.790000000000001,46.839 -5.183,46.667 -3.673,46.285 -1.834,45.981 -0.173,45.855 1.353,45.88500000000001 2.765,46.075 2.814,46.088 4.06,46.46 5.231,47.093 5.634,47.461 6.192,48.171 6.556,49.02000000000001 6.712,50.166 6.713,50.706 6.33,52.521 5.503,54.486 4.185,56.637 2.194,59.04 -0.9329999999999999,61.826 -6.543,65.313 -14.658,68.663 -31.078,72.489</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -35.698,69.551 -32.436,68.947 -23.988,66.352 -19.018,63.93200000000001 -16.856,62.238 -15.53,60.885 -14.92,59.736 -15.097,58.511 -15.165,58.328 -16.523,57.568 -18.564,57.185 -20.044,56.96500000000001 -20.544,56.74 -21.233,55.634 -21,55.085 -18.081,52.885 -14.489,50.748 -12.137,49.538 -10.509,48.70200000000001 -8.412000000000001,47.803 -5.790000000000001,46.839 -5.183,46.667 -3.673,46.285 -1.834,45.981 -0.173,45.855 1.353,45.88500000000001 2.765,46.075 2.814,46.088 4.06,46.46 5.231,47.093 5.634,47.461 6.192,48.171 6.556,49.02000000000001 6.712,50.166 6.713,50.706 6.33,52.521 5.503,54.486 4.185,56.637 2.194,59.04 -0.9329999999999999,61.826 -6.543,65.313 -14.658,68.663 -31.078,72.489</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> 1.321,47.738 1.733,47.827 2.983000000000001,48.372 3.975,49.17999999999999 4.04,49.267 4.562,50.84099999999999 4.56,51.116 4.295,52.655 3.413,54.633 1.838,56.81799999999999 -0.795,59.299 -5.503,62.289 -6.299999999999999,62.684 -11.199,63.97899999999999 -11.689,62.99499999999999 -11.909,62.76500000000001 -10.85,60.512 -10.733,60.31800000000001 -10.108,58.342 -10.074,57.945 -10.198,56.69599999999999 -10.926,55.928 -11.09,55.646 -12.27,54.824 -13.481,54.237 -13.476,54.03 -12.971,52.338 -10.147,50.319 -7.968000000000001,49.281 -5.418,48.253 -5.162,48.175 -3.1,47.741 -1.307,47.559 0.296,47.582 1.321,47.738</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>60</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-16.6526408451044, 57.2663189719425</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-11.75372094882902, 55.04344564836122</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
