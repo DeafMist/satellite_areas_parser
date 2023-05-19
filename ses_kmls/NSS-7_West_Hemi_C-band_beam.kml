@@ -1,0 +1,175 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>NSS-7_West_Hemi_C-band_beam.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>NSS-7_West_Hemi_C-band_beam</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -45.2,-32.1 -45.9,-31.3 -47.5,-31.3 -48.6,-32.3 -49.8,-33.8 -50.39999999999999,-35.4 -50.5,-37 -50.3,-38.2 -50,-38.6 -49.1,-39.4 -47.3,-39.3 -46.1,-38.4 -45.10000000000001,-36.7 -44.7,-35.1 -44.7,-33.6 -44.8,-32.8 -45.2,-32.1</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -46.20000000000001,-16.3 -48,-16.4 -49.7,-17.4 -51.1,-18.9 -52.2,-20.2 -54,-22.6 -55.1,-24.2 -56.9,-27 -58.4,-29.9 -59.7,-32.9 -60.9,-36.1 -61.59999999999999,-37.7 -62.7,-41.2 -63.29999999999999,-43 -64.2,-45.7 -65.1,-48.8 -65.7,-51.2 -65.2,-53.2 -63.50000000000001,-54.2 -58.3,-54.49999999999999 -51.99999999999999,-53.39999999999999 -47.89999999999999,-51.9 -43.7,-49.4 -41.3,-47.2 -38.7,-43.2 -37.9,-41.4 -37.1,-38.4 -36.9,-36.4 -37.2,-33.3 -37.6,-31.8 -38.2,-29.7 -38.9,-27.7 -39.4,-26.3 -40,-24.8 -41,-22.6 -41.6,-21.2 -42.2,-19.9 -43,-18.6 -44.2,-17.4 -45.40000000000001,-16.5 -46.20000000000001,-16.3</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -98.7,48.2 -100.2,42.5 -101,36.7 -102,29.2 -102.4,23.6 -96.9,22 -84.3,21.4 -80.7,21.5 -75.7,22.5 -73.7,23.4 -72.1,24.60000000000001 -70.7,26 -69.5,27.6 -68.6,29.1 -68,30.5 -67.8,32 -68.7,35.1 -69.8,36.7 -74.1,40.4 -77.8,42.6 -84,45.10000000000001 -98.7,48.2</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -97.2,52.9 -98.3,49.9 -101,36.7 -102.4,23.6 -102.9,14.1 -92.2,12.8 -82.1,9.9 -79.8,8.6 -79.1,7.4 -79.1,7.4 -78.8,4.9 -77.3,1.2 -74.3,-2.4 -72.1,-6 -71,-9.7 -69.6,-13.3 -68.2,-17 -67.4,-20.4 -66.7,-23.5 -66.4,-27.5 -67,-31.9 -68.4,-36.6 -71.3,-41.9 -77.7,-48.3 -82,-50.90000000000001 -96.30000000000001,-55.3 -90.6,-65.4 -86.9,-68.7 -81.5,-67.9 -72.2,-66.1 -62.10000000000001,-63.7 -52.3,-60.4 -40.9,-53.90000000000001 -36.5,-48.99999999999999 -33.3,-42.9 -32.1,-36.2 -32.8,-31.7 -34,-28.9 -35.7,-24.9 -36.9,-21.8 -37.9,-18.6 -38.6,-13.9 -38.5,-10.3 -36.9,-8 -34.2,-5.7 -32.7,-2.3 -33.1,2.3 -34.6,5.1 -37,7.800000000000001 -39.6,9.9 -42.2,11.6 -44.9,12.6 -46.4,11.5 -46,6.9 -46.20000000000001,2.3 -46.8,1.5 -48.10000000000001,1.3 -50.60000000000001,2.3 -53.7,4 -56.9,6.2 -60.3,8.3 -64.1,10.7 -64.3,11.9 -63.1,15.6 -61.1,18.8 -58.2,20.6 -55.2,22.9 -56.5,28.4 -59.7,34.4 -66.1,41.5 -78.5,48.4 -92.1,52.1 -97.2,52.9</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> -96,56.09999999999999 -98.3,49.9 -100.8,39.1 -102,29.2 -102.7,18.8 -103.2,3.5 -103.2,0 -100.9,0 -95.1,-2.6 -89.7,-5.9 -86.2,-8.4 -83.6,-11 -81.4,-13.4 -79.6,-15.6 -78,-17.8 -76.7,-20 -75.4,-22.6 -74.4,-25.3 -73.6,-28 -73.3,-30.9 -73.8,-33.9 -75.1,-37.2 -77.6,-40.8 -84.6,-46 -98.2,-50 -97,-54 -92.7,-62.7 -88,-68 -82.8,-71.8 -79.2,-73.5 -62.99999999999999,-69.8 -59,-68.5 -47.5,-63.50000000000001 -37.6,-56.40000000000001 -33.7,-51.6 -30.9,-46.8 -29.3,-42.9 -27.9,-37.8 -27.9,-33.1 -28.6,-29.7 -29.8,-27.1 -31.2,-24.8 -32.4,-22.3 -33.3,-19.8 -33.9,-16.7 -33.8,-14.6 -32.8,-11.4 -31.7,-9.1 -30.7,-6.8 -30.1,-3.4 -30.4,0 -31,2.6 -32.2,5.2 -33.4,7 -35.2,9.1 -37.2,11.2 -38.6,12.6 -41.1,15 -42.8,16.7 -44.5,18.7 -46.6,21.3 -48.5,24 -50.90000000000001,27.6 -52.9,31 -55.8,35.7 -58.7,39.5 -64.6,45 -73,49.8 -81.6,53.09999999999999 -96,56.09999999999999</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-68.55995197971095, 29.75674738954375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>38</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.01912912100593, -0.9182567796175194</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-80.36921328091859, -15.12318880418887</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-44.78342249666463, -35.61702119494547</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-37.56608719193186, -32.43241263313458</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>38</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-37.08030167817152, -20.15050611445692</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-31.75699929270098, -9.49839359112471</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
