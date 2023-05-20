@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="untitled1" />
         <module name="sputnik" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sputnik" target="18" />
+      <module name="untitled1" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
