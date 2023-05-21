@@ -69,7 +69,7 @@ def kml_generator(name: str, coordinates: List[str], values: List[str] = None, p
             )
         )
 
-        if len(values) != 0:
+        if len(values) != 0 and values[i - 1] != '':
             placemark.append(
                 KML.ExtendedData(
                     KML.Data(

@@ -1,0 +1,63 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>t19v_sk_gw_ka_band_gt.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>t19v_sk_gw_ka_band_gt</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-106.765312,50.37264999999999 -105.134529,49.794964 -104.016243,49.65546 -103.310196,49.850746 -103.167625,50.012123 -103.063957,50.442863 -103.126122,50.776474 -103.646652,51.614941 -104.55072,52.42924500000001 -104.66716,52.526344 -104.755608,52.58417099999999 -106.469017,53.547558 -108.226913,54.22916 -110.031532,54.61353299999999 -111.155823,54.564713 -111.627243,54.146725 -111.621803,54.125774 -111.008141,53.216644 -110.683868,52.920464 -109.903564,52.276772 -108.497993,51.329136 -107.054306,50.514477 -106.765312,50.37264999999999</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-106.066261,48.805378 -105.600563,48.609932 -104.148338,48.162994 -103.090996,48.022232 -102.269234,48.081718 -101.603127,48.282814 -101.478149,48.36639399999999 -101.143478,48.683735 -100.892609,49.046429 -100.835579,49.23436 -100.868111,49.793098 -100.996803,50.23207100000001 -101.165031,50.586704 -101.738304,51.425896 -102.549873,52.310287 -103.679741,53.251907 -105.279335,54.272335 -107.635597,55.412319 -108.264557,55.661495 -111.02034,56.51251999999999 -113.319717,56.99285499999999 -115.107498,57.161835 -116.419289,57.090775 -117.192795,56.78553000000001 -117.243622,56.56561700000001 -117.130486,56.13734399999999 -116.70182,55.60120400000001 -116.155968,55.086246 -115.532097,54.58859300000001 -114.168732,53.581902 -113.549088,53.165142 -112.695709,52.590557 -111.177574,51.62104399999999 -109.628075,50.673779 -108.163872,49.82936099999999 -108.010803,49.743988 -106.066261,48.805378</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
