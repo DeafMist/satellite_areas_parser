@@ -1,0 +1,73 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>t19v_sk_gw_ka_band_eirp.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>t19v_sk_gw_ka_band_eirp</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-105.16729,49.99288200000001 -105.057312,49.955494 -103.701126,49.728939 -103.11412,49.790642 -102.825401,49.889038 -102.785767,50.63243499999999 -103.102409,51.047482 -103.654274,51.61586400000001 -104.669998,52.301193 -105.384033,52.718616 -107.889427,53.70940400000001 -109.6064,54.13821 -110.045753,54.227386 -110.244148,54.210911 -111.009048,53.99565500000001 -110.978516,53.33185999999999 -110.584869,52.960808 -109.689644,52.253323 -107.866501,51.150238 -107.613205,51.025616 -105.16729,49.99288200000001</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>67</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-106.1661,49.23653 -104.58918,48.662762 -103.076454,48.24476199999999 -101.943596,48.12965 -101.026718,48.20240399999999 -100.361862,48.519581 -100.219833,48.669209 -100.063522,49.207886 -100.118408,49.508511 -100.626274,50.42556 -101.507156,51.403591 -102.861343,52.458443 -104.805779,53.610802 -106.319168,54.332127 -107.786049,54.922661 -109.545502,55.515182 -112.129997,56.132931 -114.449921,56.504997 -116.08403,56.50211 -117.028206,56.18409 -117.067429,56.02779399999999 -116.602486,55.283638 -116.195793,54.915161 -114.555367,53.74679199999999 -112.848709,52.690918 -112.688644,52.589909 -111.994286,52.208099 -110.683159,51.454258 -108.530914,50.338615 -106.626472,49.43248 -106.1661,49.23653</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <ExtendedData>
+          <Data name="EIRP">
+            <value>65</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

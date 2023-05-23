@@ -1,0 +1,77 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>t19v_mtj_gw_ka_band_gt.kml</name>
+    <gx:CascadingStyle id="stylename1">
+      <Style>
+        <LineStyle>
+          <width>1.5</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle id="stylename2">
+      <Style>
+        <PolyStyle>
+          <color>402f2fd3</color>
+        </PolyStyle>
+      </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="stylename">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#stylename2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#stylename1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>t19v_mtj_gw_ka_band_gt</name>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-78.186089,37.402966 -78.105705,37.367336 -77.552055,37.297859 -77.068649,37.367088 -77.035294,37.383698 -76.914413,37.92868 -77.180641,38.510178 -77.323906,38.664925 -77.815819,39.111408 -78.013779,39.24316 -78.608238,39.393383 -79.125992,39.240559 -79.208252,39.160656 -79.284584,38.582325 -78.971283,37.997005 -78.745636,37.772415 -78.186089,37.402966</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-78.206947,36.288891 -77.831619,36.16748 -77.291191,36.107487 -76.759346,36.075768 -76.245819,36.126114 -75.838966,36.217865 -75.748894,36.259758 -75.357216,36.757984 -75.33902,36.866207 -75.293953,37.315559 -75.450706,37.885597 -75.581238,38.119473 -75.777504,38.4674 -76.249825,39.061104 -76.338768,39.148624 -76.901489,39.668766 -77.0326,39.7729 -77.695442,40.199955 -77.860031,40.296219 -78.347588,40.538006 -78.970787,40.734463 -79.570496,40.826557 -80.11602,40.724682 -80.62809,40.513271 -80.719719,40.405048 -80.896629,39.815338 -80.839516,39.331074 -80.82267,39.223011 -80.749405,39.029011 -80.600021,38.632256 -80.260689,38.044407 -79.822556,37.460239 -79.729851,37.360386 -79.23394,36.878048 -79.024361,36.712471 -78.40789,36.369728 -78.206947,36.288891</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#stylename</styleUrl>
+        <Polygon>
+          <tesselate>1</tesselate>
+          <extrude>1</extrude>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-76.248802,35.139854 -76.054993,35.13036 -75.533691,35.091606 -75.284294,35.114155 -75.031288,35.150867 -74.548744,35.326996 -74.178635,35.628185 -74.102051,35.733143 -73.896095,36.168301 -73.852142,36.719894 -73.974922,37.281635 -74.220436,37.852989 -74.567551,38.427452 -74.571877,38.434109 -75.071266,39.026836 -75.259987,39.214291 -75.667526,39.630672 -75.94809,39.878147 -76.38356,40.247208 -76.629944,40.432293 -77.233391,40.87809 -77.315231,40.933395 -77.978081,41.291588 -78.457108,41.533581 -78.645073,41.623158 -79.284431,41.823822 -79.924423,42.00201 -80.524147,42.033592 -81.101204,41.98703 -81.633827,41.806015 -81.828247,41.67186 -82.082283,41.385857 -82.241249,41.076191 -82.344002,40.474888 -82.336472,40.413776 -82.240768,39.872478 -82.020287,39.272873 -81.865891,38.978466 -81.702934,38.676941 -81.311378,38.085606 -80.893166,37.50071 -80.847763,37.442066 -80.40625,36.920486 -80.057297,36.537716 -79.845512,36.344761 -79.379074,35.976006 -79.051262,35.76823 -78.762474,35.61388 -78.195061,35.431683 -77.640923,35.287518 -77.10833,35.228233 -76.576149,35.157272 -76.248802,35.139854</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
